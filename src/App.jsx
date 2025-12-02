@@ -1,13 +1,13 @@
 import { useEffect, useState, useRef } from "react";
 import "./App.css";
-import contestData from "./assets/nac2020.json";
+import contestData from "./assets/nac2025.json";
 
 // Convert seconds → HH:MM:SS
 function formatTime(sec) {
-  const h = String(Math.floor(sec / 3600)).padStart(2, "0");
-  const m = String(Math.floor((sec % 3600) / 60)).padStart(2, "0");
-  const s = String(sec % 60).padStart(2, "0");
-  return `${h}:${m}:${s}`;
+  // const h = String(Math.floor(sec / 3600)).padStart(2, "0");
+  // const m = String(Math.floor((sec % 3600) / 60)).padStart(2, "0");
+  // const s = String(sec % 60).padStart(2, "0");
+  return `${sec / 60}`;
 }
 
 // Convert seconds → HH:MM:SS for header
@@ -100,7 +100,8 @@ export default function App() {
 
     teams.sort((a, b) => {
       if (b.solved !== a.solved) return b.solved - a.solved;
-      return a.penalty - b.penalty;
+      if (a.penalty - b.penalty) return a.penalty - b.penalty;
+      return a.name.localeCompare(b.name);
     });
 
     return teams;
@@ -174,7 +175,7 @@ export default function App() {
 
       </div>
 
-      <h1 className="title">Scoreboard {currentTime > contestData.freeze ? "(FROZEN)" : ""} </h1>
+      <h1 className="title">{contestData.name} Scoreboard {currentTime > contestData.freeze ? "(FROZEN)" : ""} </h1>
 
       <table className="scoreboard">
         <thead>
@@ -195,7 +196,7 @@ export default function App() {
 
               <td className="teamCol">
                 <div className="teamName">{team.name}</div>
-                <div className="teamUniv">{team.university}</div>
+                {/* <div className="teamUniv">{team.university}</div>*/}
               </td>
 
               <td className="scoreCol">

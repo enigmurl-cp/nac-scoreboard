@@ -1,0 +1,32 @@
+{
+  "name": "NAC 2020",
+  "duration": 18000,
+  "freeze": 15000,
+  "problems": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"],
+  "teams": [
+      {
+        "name": "Fallen Star",
+        "university": "UCSD",
+        "logo": "",
+        "submissions": {
+          "A": { "time": 1145, "tries": 2, "first": true },
+          "B": { "time": 11766, "tries": 1 },
+          "C": null,
+          "D": { "time": 15123, "tries": 3 },
+          "E": null
+        }
+      },
+      {
+        "name": "Scalm 2 ",
+        "university": "California Institute of Technology",
+        "logo": "",
+        "submissions": {
+          "A": { "time": 1145, "tries": 3 },
+          "B": { "time": 11766, "tries": 1 },
+          "C": null,
+          "D": { "time": 15123, "tries": 3 },
+          "E": null
+        }
+      }
+    ]
+}
