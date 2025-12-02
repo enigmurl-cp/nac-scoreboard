@@ -1,42 +1,184 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+/* Load DOMjudge font */
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+  background: #fafafa;
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  padding: 20px;
+}
+
+/* ------------------------- */
+/* Replay Header Bar         */
+/* ------------------------- */
+
+.headerBar {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 8px 0;
+  margin-bottom: 10px;
+}
+
+.startBtn {
+  padding: 6px 14px;
+  font-size: 14px;
+  font-weight: 700;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.startBtn:disabled {
+  background: #9cbfee;
+  cursor: not-allowed;
+}
+
+.timeLeftBox {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.timeLeft {
+  font-family: monospace;
+}
+
+.seekBox {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+}
+
+/* ------------------------- */
+/* Title                     */
+/* ------------------------- */
+
+.title {
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+/* ------------------------- */
+/* Scoreboard Table          */
+/* ------------------------- */
+
+.scoreboard {
+  border-collapse: collapse;
+  width: 100%;
+  table-layout: fixed;
+  background: white;
+  font-size: 14px;
+}
+
+.scoreboard th {
+  background: #e8e8e8;
+  padding: 4px 2px;
+  border: 1px solid #ccc;
+  font-weight: 700;
   text-align: center;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+.scoreboard td {
+  border: 1px solid #ddd;
+  padding: 3px 4px;
+  vertical-align: middle;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Column widths (DOMjudge-like) */
+
+.rankCol {
+  width: 45px;
+  text-align: center;
+  font-weight: 700;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.teamCol {
+  width: 180px;
 }
 
-.card {
-  padding: 2em;
+.scoreCol {
+  width: 110px;
+  text-align: center;
+  font-weight: 600;
 }
 
-.read-the-docs {
-  color: #888;
+.probHeader {
+  text-align: center;
+  width: 65px;
+}
+
+/* ------------------------- */
+/* Team Cell Content         */
+/* ------------------------- */
+
+.teamName {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.teamUniv {
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+/* ------------------------- */
+/* Score Cell: solved + penalty */
+/* ------------------------- */
+
+.solvedCount {
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.penaltyTime {
+  font-weight: 500;
+  font-size: 13px;
+  margin-left: 3px;
+  opacity: 0.85;
+}
+
+/* ------------------------- */
+/* Problem Result Cells      */
+/* ------------------------- */
+
+.emptyCell {
+  background: #f8f8f8;
+}
+
+.solvedCell {
+  background: #6fe36f; /* regular DOMjudge green */
+  text-align: center;
+  padding: 2px 0;
+}
+
+.firstSolve {
+  background: #4cc34c !important; /* darker DOMjudge first-solve green */
+  border: 2px solid #2c8a2c;
+}
+
+.solvedCell .time {
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.solvedCell .tries {
+  font-size: 11px;
+  opacity: 0.8;
+  margin-top: -2px;
+}
+
+/* ------------------------- */
+/* Row Height                */
+/* ------------------------- */
+
+.scoreboard tr {
+  height: 36px;
 }
