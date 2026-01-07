@@ -1,6 +1,6 @@
 import { useEffect, useState, useRef } from "react";
 import "./App.css";
-import contestData from "./assets/nac2025.json";
+import contestData from "./assets/nac2024.json";
 
 // Convert seconds → HH:MM:SS
 function formatTime(sec) {
