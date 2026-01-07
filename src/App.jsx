@@ -29,7 +29,8 @@ export default function App() {
   // Load contest data based on URL
   // --------------------------------------------------
   useEffect(() => {
-    const contestId = window.location.pathname.replace("/", "");
+    const params = new URLSearchParams(window.location.search);
+    const contestId = params.get("contest");
 
     import(`./assets/${contestId}.json`)
       .then((mod) => {
