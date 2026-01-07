@@ -3,7 +3,7 @@ import "./App.css";
 
 // Convert seconds → minutes
 function formatTime(sec) {
-  return `${sec / 60}`;
+  return `${Math.round(sec / 60)}`;
 }
 
 // Convert seconds → HH:MM for header
@@ -29,7 +29,7 @@ export default function App() {
   // Load contest data based on URL
   // --------------------------------------------------
   useEffect(() => {
-    const contestId = window.location.pathname.replace("/", "") || "nac2024";
+    const contestId = window.location.pathname.replace("/", "");
 
     import(`./assets/${contestId}.json`)
       .then((mod) => {
@@ -81,11 +81,23 @@ export default function App() {
     return () => window.removeEventListener("beforeunload", handler);
   }, [isRunning]);
 
+  if (error) {
+    return (<div className="page">
+      <h1 className="title">Error</h1>
+      <div className="errorMessage">{error}</div>
+    </div>
+    );
+  }
+
+  if (!contestData) {
+    return <div className="page">Loading contest data...</div>;
+  }
+
   const duration = contestData.duration;
   const timeLeft = Math.max(0, duration - currentTime);
 
   // Build revealed submissions based on current time
-  const revealed = sortedSubsRef.current.filter((s) => s.time <= Math.min(currentTime, contestData.freeze));
+  const revealed = sortedSubsRef.current.filter((s) => s.time <= Math.min(currentTime, contestData.freeze) || currentTime >= contestData.duration);
 
   // ——————————————————————————————————
   // Compute teams from revealed submissions
@@ -189,7 +201,7 @@ export default function App() {
 
       </div>
 
-      <h1 className="title">{contestData.name} Scoreboard {currentTime > contestData.freeze ? "(FROZEN)" : ""} </h1>
+      <h1 className="title">{contestData.name} Scoreboard {currentTime > contestData.freeze && currentTime < contestData.duration ? "(FROZEN)" : ""} </h1>
 
       <table className="scoreboard">
         <thead>

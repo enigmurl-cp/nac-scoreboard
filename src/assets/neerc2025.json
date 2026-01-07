@@ -1,0 +1,6327 @@
+{
+  "name": "NERC 2024",
+  "duration": 18000,
+  "freeze": 14400,
+  "problems": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "teams": [
+    {
+      "name": "HSE: Surstrumien bobra (Novikov, Stepanov, Mikhnenko)",
+      "university": "HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1108,
+          "tries": 1
+        },
+        "B": {
+          "time": 10205,
+          "tries": 1
+        },
+        "D": {
+          "time": 4475,
+          "tries": 1
+        },
+        "E": {
+          "time": 3394,
+          "tries": 2
+        },
+        "F": {
+          "time": 1024,
+          "tries": 1
+        },
+        "G": {
+          "time": 8092,
+          "tries": 1
+        },
+        "I": {
+          "time": 13736,
+          "tries": 2
+        },
+        "J": {
+          "time": 2974,
+          "tries": 1
+        },
+        "K": {
+          "time": 14854,
+          "tries": 1,
+          "first": true
+        },
+        "M": {
+          "time": 6631,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "St. Petersburg SU: Polar Bear Transform (Turevskii, Danilevich, Ushakov)",
+      "university": "St. Petersburg SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2921,
+          "tries": 4
+        },
+        "B": {
+          "time": 14764,
+          "tries": 1
+        },
+        "D": {
+          "time": 7814,
+          "tries": 1
+        },
+        "E": {
+          "time": 3835,
+          "tries": 2
+        },
+        "F": {
+          "time": 616,
+          "tries": 1,
+          "first": true
+        },
+        "G": {
+          "time": 6798,
+          "tries": 2,
+          "first": true
+        },
+        "I": {
+          "time": 16540,
+          "tries": 7
+        },
+        "J": {
+          "time": 1818,
+          "tries": 1,
+          "first": true
+        },
+        "L": {
+          "time": 10539,
+          "tries": 2,
+          "first": true
+        },
+        "M": {
+          "time": 2789,
+          "tries": 1,
+          "first": true
+        }
+      }
+    },
+    {
+      "name": "HSE: M.O.S.C.O.W. (Kudriashov, Babin, Fedorov)",
+      "university": "HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1013,
+          "tries": 1
+        },
+        "B": {
+          "time": 11110,
+          "tries": 1
+        },
+        "D": {
+          "time": 4194,
+          "tries": 1
+        },
+        "E": {
+          "time": 1790,
+          "tries": 2
+        },
+        "F": {
+          "time": 696,
+          "tries": 1
+        },
+        "G": {
+          "time": 7662,
+          "tries": 4
+        },
+        "I": {
+          "time": 15239,
+          "tries": 3
+        },
+        "J": {
+          "time": 4696,
+          "tries": 1
+        },
+        "M": {
+          "time": 3718,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "HSE: ran'she ya byl schastliv/// (Pustovalov, Nekrasov, Vasilyev)",
+      "university": "HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 494,
+          "tries": 1
+        },
+        "B": {
+          "time": 8431,
+          "tries": 1
+        },
+        "D": {
+          "time": 3823,
+          "tries": 1
+        },
+        "E": {
+          "time": 1551,
+          "tries": 1
+        },
+        "F": {
+          "time": 1631,
+          "tries": 1
+        },
+        "G": {
+          "time": 14367,
+          "tries": 3
+        },
+        "I": {
+          "time": 9460,
+          "tries": 1
+        },
+        "J": {
+          "time": 2826,
+          "tries": 1
+        },
+        "M": {
+          "time": 11917,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "HSE: Outsiders (Romashov, Lazarev, Sinitsyna)",
+      "university": "HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1113,
+          "tries": 1
+        },
+        "B": {
+          "time": 16893,
+          "tries": 1
+        },
+        "D": {
+          "time": 3556,
+          "tries": 3
+        },
+        "E": {
+          "time": 1202,
+          "tries": 3,
+          "first": true
+        },
+        "F": {
+          "time": 2174,
+          "tries": 1
+        },
+        "I": {
+          "time": 7641,
+          "tries": 2,
+          "first": true
+        },
+        "J": {
+          "time": 3986,
+          "tries": 1
+        },
+        "L": {
+          "time": 10993,
+          "tries": 1
+        },
+        "M": {
+          "time": 5985,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "MIPT: The Elephants (Redko, Belyaev, Belyi)",
+      "university": "MIPT",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1674,
+          "tries": 1
+        },
+        "B": {
+          "time": 9639,
+          "tries": 1
+        },
+        "D": {
+          "time": 6565,
+          "tries": 1
+        },
+        "E": {
+          "time": 1610,
+          "tries": 3
+        },
+        "F": {
+          "time": 2039,
+          "tries": 1
+        },
+        "G": {
+          "time": 15963,
+          "tries": 2
+        },
+        "J": {
+          "time": 3531,
+          "tries": 1
+        },
+        "M": {
+          "time": 13178,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Saratov State U: B (Shnirelman, Brovko, Lankin)",
+      "university": "Saratov State U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1376,
+          "tries": 1
+        },
+        "B": {
+          "time": 10509,
+          "tries": 1
+        },
+        "D": {
+          "time": 5862,
+          "tries": 1
+        },
+        "E": {
+          "time": 6530,
+          "tries": 5
+        },
+        "F": {
+          "time": 689,
+          "tries": 1
+        },
+        "I": {
+          "time": 14168,
+          "tries": 3
+        },
+        "J": {
+          "time": 5000,
+          "tries": 1
+        },
+        "M": {
+          "time": 8267,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Moscow SU: Intentionally Blank (Bargatin, Lisov, Kashina)",
+      "university": "Moscow SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1397,
+          "tries": 1
+        },
+        "B": {
+          "time": 6756,
+          "tries": 1
+        },
+        "D": {
+          "time": 5284,
+          "tries": 1
+        },
+        "E": {
+          "time": 2789,
+          "tries": 1
+        },
+        "F": {
+          "time": 2366,
+          "tries": 1
+        },
+        "G": {
+          "time": 15540,
+          "tries": 3
+        },
+        "J": {
+          "time": 5445,
+          "tries": 2
+        },
+        "M": {
+          "time": 16329,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "HSE: The Lower Depths (Rodionov, Karimov, Evegniev)",
+      "university": "HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1893,
+          "tries": 1
+        },
+        "B": {
+          "time": 14290,
+          "tries": 1
+        },
+        "D": {
+          "time": 9498,
+          "tries": 1
+        },
+        "E": {
+          "time": 2559,
+          "tries": 1
+        },
+        "F": {
+          "time": 1603,
+          "tries": 1
+        },
+        "G": {
+          "time": 17815,
+          "tries": 10
+        },
+        "J": {
+          "time": 3964,
+          "tries": 1
+        },
+        "M": {
+          "time": 8376,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "MIPT: Ctrl+XD (Pervutinskiy, Kostylev, Ragulin)",
+      "university": "MIPT",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1459,
+          "tries": 2
+        },
+        "B": {
+          "time": 15087,
+          "tries": 4
+        },
+        "D": {
+          "time": 4268,
+          "tries": 1
+        },
+        "E": {
+          "time": 2917,
+          "tries": 1
+        },
+        "F": {
+          "time": 2052,
+          "tries": 3
+        },
+        "G": {
+          "time": 12928,
+          "tries": 6
+        },
+        "J": {
+          "time": 4691,
+          "tries": 2
+        },
+        "M": {
+          "time": 10605,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "Belarusian SU: 1 sos repos (Sabalenka, Antashkevich, Vylegzhanin)",
+      "university": "Belarusian SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2909,
+          "tries": 1
+        },
+        "B": {
+          "time": 14353,
+          "tries": 3
+        },
+        "D": {
+          "time": 4493,
+          "tries": 1
+        },
+        "E": {
+          "time": 4017,
+          "tries": 2
+        },
+        "F": {
+          "time": 2238,
+          "tries": 2
+        },
+        "J": {
+          "time": 9541,
+          "tries": 1
+        },
+        "L": {
+          "time": 17344,
+          "tries": 1
+        },
+        "M": {
+          "time": 11743,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "HSE: Solved Normal Form (Ustimenko, Khrushchev, Piskarev)",
+      "university": "HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1144,
+          "tries": 1
+        },
+        "B": {
+          "time": 11151,
+          "tries": 8
+        },
+        "D": {
+          "time": 5762,
+          "tries": 2
+        },
+        "E": {
+          "time": 3150,
+          "tries": 2
+        },
+        "F": {
+          "time": 2034,
+          "tries": 1
+        },
+        "I": {
+          "time": 16862,
+          "tries": 11
+        },
+        "J": {
+          "time": 8340,
+          "tries": 2
+        },
+        "M": {
+          "time": 6613,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Innopolis: No Game No Alice (Sarhan, Parfenov, Bortsov)",
+      "university": "Innopolis",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3119,
+          "tries": 1
+        },
+        "B": {
+          "time": 15211,
+          "tries": 1
+        },
+        "D": {
+          "time": 7417,
+          "tries": 2
+        },
+        "E": {
+          "time": 5354,
+          "tries": 1
+        },
+        "F": {
+          "time": 1704,
+          "tries": 1
+        },
+        "J": {
+          "time": 8096,
+          "tries": 1
+        },
+        "L": {
+          "time": 16528,
+          "tries": 2
+        },
+        "M": {
+          "time": 17075,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "MIPT: Ad ordio per codio (Ivan, Porai, Savvateev)",
+      "university": "MIPT",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2103,
+          "tries": 1
+        },
+        "B": {
+          "time": 17718,
+          "tries": 9
+        },
+        "D": {
+          "time": 7601,
+          "tries": 5
+        },
+        "E": {
+          "time": 3727,
+          "tries": 3
+        },
+        "F": {
+          "time": 4427,
+          "tries": 1
+        },
+        "H": {
+          "time": 17829,
+          "tries": 4,
+          "first": true
+        },
+        "J": {
+          "time": 5881,
+          "tries": 2
+        },
+        "M": {
+          "time": 12526,
+          "tries": 6
+        }
+      }
+    },
+    {
+      "name": "St. Petersburg SU: Deprecated AI (Vasilev, Loginov, Novozhilov)",
+      "university": "St. Petersburg SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1092,
+          "tries": 1
+        },
+        "B": {
+          "time": 9883,
+          "tries": 1
+        },
+        "D": {
+          "time": 5892,
+          "tries": 1
+        },
+        "E": {
+          "time": 2446,
+          "tries": 3
+        },
+        "F": {
+          "time": 2118,
+          "tries": 1
+        },
+        "J": {
+          "time": 3673,
+          "tries": 1
+        },
+        "M": {
+          "time": 10217,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Yerevan SU: good knight (Kocharyan, Andreasyan, Petrosyan)",
+      "university": "Yerevan SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1581,
+          "tries": 1
+        },
+        "D": {
+          "time": 5114,
+          "tries": 2
+        },
+        "E": {
+          "time": 3533,
+          "tries": 1
+        },
+        "F": {
+          "time": 2236,
+          "tries": 1
+        },
+        "G": {
+          "time": 14783,
+          "tries": 3
+        },
+        "J": {
+          "time": 6474,
+          "tries": 1
+        },
+        "M": {
+          "time": 9877,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "MIPT: Who cares? (Evstigneev, Kuznetsov, Kalugin)",
+      "university": "MIPT",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3519,
+          "tries": 3
+        },
+        "B": {
+          "time": 15244,
+          "tries": 1
+        },
+        "D": {
+          "time": 6747,
+          "tries": 2
+        },
+        "E": {
+          "time": 1248,
+          "tries": 1
+        },
+        "F": {
+          "time": 2056,
+          "tries": 1
+        },
+        "G": {
+          "time": 15104,
+          "tries": 3
+        },
+        "J": {
+          "time": 5759,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "MAI: 1 (Inyutin, Plyushkin, Belousov)",
+      "university": "MAI",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6518,
+          "tries": 1
+        },
+        "B": {
+          "time": 12192,
+          "tries": 1
+        },
+        "D": {
+          "time": 2357,
+          "tries": 1
+        },
+        "E": {
+          "time": 2643,
+          "tries": 7
+        },
+        "F": {
+          "time": 6813,
+          "tries": 2
+        },
+        "I": {
+          "time": 16400,
+          "tries": 2
+        },
+        "J": {
+          "time": 4723,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "St. Petersburg SU: Shirovlasiki v1.5 (Khisamutdinov, Mishukov, Savinov)",
+      "university": "St. Petersburg SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2749,
+          "tries": 1
+        },
+        "B": {
+          "time": 16127,
+          "tries": 1
+        },
+        "D": {
+          "time": 7031,
+          "tries": 1
+        },
+        "E": {
+          "time": 10946,
+          "tries": 5
+        },
+        "F": {
+          "time": 1297,
+          "tries": 1
+        },
+        "J": {
+          "time": 12525,
+          "tries": 3
+        },
+        "M": {
+          "time": 15197,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "Ural FU: eldermen (Cherepanov, Moskovchenko, Mikhailov)",
+      "university": "Ural FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2234,
+          "tries": 1
+        },
+        "B": {
+          "time": 7841,
+          "tries": 2
+        },
+        "D": {
+          "time": 5365,
+          "tries": 1
+        },
+        "E": {
+          "time": 1256,
+          "tries": 1
+        },
+        "F": {
+          "time": 3722,
+          "tries": 1
+        },
+        "J": {
+          "time": 4428,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "MIPT: SHLYOP-SHLYOP (Chistyakov, Plyusnin, Sosunov)",
+      "university": "MIPT",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1184,
+          "tries": 1
+        },
+        "B": {
+          "time": 11060,
+          "tries": 1
+        },
+        "D": {
+          "time": 3405,
+          "tries": 1
+        },
+        "E": {
+          "time": 5125,
+          "tries": 5
+        },
+        "F": {
+          "time": 1287,
+          "tries": 2
+        },
+        "J": {
+          "time": 5628,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "NNSU: Kuzya Lakomkin (Polozov, Kruglov, Sadikov)",
+      "university": "NNSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1032,
+          "tries": 1
+        },
+        "B": {
+          "time": 12653,
+          "tries": 3
+        },
+        "D": {
+          "time": 2886,
+          "tries": 1
+        },
+        "E": {
+          "time": 4621,
+          "tries": 3
+        },
+        "F": {
+          "time": 1688,
+          "tries": 1
+        },
+        "J": {
+          "time": 6342,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "AITU: Sorry, who are you? (Baibolov, Muzhikov, Issayev)",
+      "university": "AITU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2347,
+          "tries": 2
+        },
+        "D": {
+          "time": 3449,
+          "tries": 1
+        },
+        "E": {
+          "time": 3019,
+          "tries": 2
+        },
+        "F": {
+          "time": 3845,
+          "tries": 1
+        },
+        "J": {
+          "time": 8746,
+          "tries": 2
+        },
+        "M": {
+          "time": 10908,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "SPb ITMO: Shuffle, duffle, muzzle, muff. Fista, wista, mista-cuff (Konovalov, Matveev, Ivchenko)",
+      "university": "SPb ITMO",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2303,
+          "tries": 1
+        },
+        "B": {
+          "time": 14489,
+          "tries": 3
+        },
+        "D": {
+          "time": 6842,
+          "tries": 3
+        },
+        "E": {
+          "time": 2497,
+          "tries": 1
+        },
+        "F": {
+          "time": 1481,
+          "tries": 1
+        },
+        "J": {
+          "time": 6982,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "SPb SUITD: PMI (Khudnitsky, Ivoyzha, Akilov)",
+      "university": "SPb SUITD",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1168,
+          "tries": 1
+        },
+        "B": {
+          "time": 13116,
+          "tries": 1
+        },
+        "D": {
+          "time": 9810,
+          "tries": 2
+        },
+        "E": {
+          "time": 3879,
+          "tries": 1
+        },
+        "F": {
+          "time": 2574,
+          "tries": 1
+        },
+        "J": {
+          "time": 6770,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Petrozavodsk SU: Gusari molchat' (Anisimov, Koshkarev, Smirnov)",
+      "university": "Petrozavodsk SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2780,
+          "tries": 2
+        },
+        "B": {
+          "time": 10248,
+          "tries": 3
+        },
+        "D": {
+          "time": 6935,
+          "tries": 1
+        },
+        "E": {
+          "time": 5363,
+          "tries": 3
+        },
+        "F": {
+          "time": 2899,
+          "tries": 2
+        },
+        "J": {
+          "time": 5815,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "MAI: 2 (Korneychik, Tushkanov, Grekov)",
+      "university": "MAI",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1810,
+          "tries": 1
+        },
+        "B": {
+          "time": 14440,
+          "tries": 1
+        },
+        "D": {
+          "time": 9183,
+          "tries": 1
+        },
+        "E": {
+          "time": 5108,
+          "tries": 3
+        },
+        "F": {
+          "time": 851,
+          "tries": 1
+        },
+        "J": {
+          "time": 6250,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "MIPT: Tri Bogatirya (Devyatyarov, Ozhegov, Turov)",
+      "university": "MIPT",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1075,
+          "tries": 1
+        },
+        "D": {
+          "time": 7702,
+          "tries": 1
+        },
+        "E": {
+          "time": 4086,
+          "tries": 2
+        },
+        "F": {
+          "time": 4519,
+          "tries": 4
+        },
+        "J": {
+          "time": 6451,
+          "tries": 1
+        },
+        "M": {
+          "time": 13031,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "St. Petersburg SU: 25 (Chvanov, Trubnikov, Khabarov)",
+      "university": "St. Petersburg SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1469,
+          "tries": 1
+        },
+        "B": {
+          "time": 8389,
+          "tries": 3
+        },
+        "D": {
+          "time": 7375,
+          "tries": 2
+        },
+        "E": {
+          "time": 4727,
+          "tries": 7
+        },
+        "F": {
+          "time": 2773,
+          "tries": 3
+        },
+        "J": {
+          "time": 4274,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "IITU: 1 Natural Intelligence (Altynbekov, Shormankhan, Popov)",
+      "university": "IITU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1224,
+          "tries": 1
+        },
+        "D": {
+          "time": 8907,
+          "tries": 2
+        },
+        "E": {
+          "time": 4718,
+          "tries": 2
+        },
+        "F": {
+          "time": 2115,
+          "tries": 3
+        },
+        "J": {
+          "time": 5768,
+          "tries": 1
+        },
+        "M": {
+          "time": 14186,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Belarusian SU: 3 Medium rare (Shutro, Hnedzko, Koval)",
+      "university": "Belarusian SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1878,
+          "tries": 1
+        },
+        "D": {
+          "time": 9464,
+          "tries": 3
+        },
+        "E": {
+          "time": 8130,
+          "tries": 3
+        },
+        "F": {
+          "time": 2666,
+          "tries": 1
+        },
+        "J": {
+          "time": 4677,
+          "tries": 1
+        },
+        "L": {
+          "time": 11559,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "MISiS: 322team (Akmanov, Tagiltsev, Kolodin)",
+      "university": "MISiS",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1152,
+          "tries": 2
+        },
+        "D": {
+          "time": 9180,
+          "tries": 3
+        },
+        "E": {
+          "time": 2260,
+          "tries": 1
+        },
+        "F": {
+          "time": 4083,
+          "tries": 1
+        },
+        "J": {
+          "time": 5722,
+          "tries": 1
+        },
+        "M": {
+          "time": 17141,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Yerevan SU: Improvis (Yengoyan, Boyakhchyan, Ayvazyan)",
+      "university": "Yerevan SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2210,
+          "tries": 2
+        },
+        "B": {
+          "time": 15928,
+          "tries": 1
+        },
+        "D": {
+          "time": 6255,
+          "tries": 1
+        },
+        "E": {
+          "time": 5424,
+          "tries": 1
+        },
+        "F": {
+          "time": 3731,
+          "tries": 3
+        },
+        "J": {
+          "time": 7925,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Chelyabinsk SU: TrAkToR74 (Karpovich, Gribakin, Gorbatov)",
+      "university": "Chelyabinsk SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1800,
+          "tries": 3
+        },
+        "D": {
+          "time": 7458,
+          "tries": 4
+        },
+        "E": {
+          "time": 3223,
+          "tries": 3
+        },
+        "F": {
+          "time": 1420,
+          "tries": 1
+        },
+        "J": {
+          "time": 4327,
+          "tries": 1
+        },
+        "M": {
+          "time": 14079,
+          "tries": 6
+        }
+      }
+    },
+    {
+      "name": "BSUIR: 5 forall e>0 exists d>0 forall x in R (0<\u2223x\u2212a\u2223<d => \u2223f(x)\u2212L\u2223<e) (Stasevich, Hnidzin, Babchanok)",
+      "university": "BSUIR",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3808,
+          "tries": 1
+        },
+        "D": {
+          "time": 10524,
+          "tries": 3
+        },
+        "E": {
+          "time": 3164,
+          "tries": 1
+        },
+        "F": {
+          "time": 1734,
+          "tries": 1
+        },
+        "J": {
+          "time": 10778,
+          "tries": 1
+        },
+        "M": {
+          "time": 14507,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "SPb ITMO: I don't know (Kutasin, Damasevich, Senkin)",
+      "university": "SPb ITMO",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1728,
+          "tries": 1
+        },
+        "D": {
+          "time": 6628,
+          "tries": 4
+        },
+        "E": {
+          "time": 5114,
+          "tries": 4
+        },
+        "F": {
+          "time": 1187,
+          "tries": 1
+        },
+        "J": {
+          "time": 6272,
+          "tries": 1
+        },
+        "M": {
+          "time": 14838,
+          "tries": 6
+        }
+      }
+    },
+    {
+      "name": "SPb HSE: So7v3r5 Club (Sarantsev, Yukachev, Peshkov)",
+      "university": "SPb HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2190,
+          "tries": 2
+        },
+        "D": {
+          "time": 7805,
+          "tries": 1
+        },
+        "E": {
+          "time": 4825,
+          "tries": 3
+        },
+        "F": {
+          "time": 967,
+          "tries": 1
+        },
+        "G": {
+          "time": 17525,
+          "tries": 3
+        },
+        "J": {
+          "time": 9758,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "KIU: MoseMusaMoshe (Khomasuridze, Nadareishvili, Tamliani)",
+      "university": "KIU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3395,
+          "tries": 1
+        },
+        "D": {
+          "time": 8364,
+          "tries": 2
+        },
+        "E": {
+          "time": 5379,
+          "tries": 1
+        },
+        "F": {
+          "time": 2169,
+          "tries": 1
+        },
+        "J": {
+          "time": 9655,
+          "tries": 1
+        },
+        "M": {
+          "time": 16480,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "Innopolis: E (Shah, Korinenko, Smirnov)",
+      "university": "Innopolis",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2406,
+          "tries": 2
+        },
+        "B": {
+          "time": 9509,
+          "tries": 4
+        },
+        "D": {
+          "time": 4950,
+          "tries": 2
+        },
+        "E": {
+          "time": 1806,
+          "tries": 5
+        },
+        "F": {
+          "time": 1449,
+          "tries": 1
+        },
+        "J": {
+          "time": 16963,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "MISiS: Eva Fan Club (Panin, Shabaev, Bikmetov)",
+      "university": "MISiS",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3105,
+          "tries": 1
+        },
+        "B": {
+          "time": 14393,
+          "tries": 2
+        },
+        "D": {
+          "time": 5885,
+          "tries": 1
+        },
+        "E": {
+          "time": 5413,
+          "tries": 1
+        },
+        "F": {
+          "time": 4973,
+          "tries": 4
+        },
+        "J": {
+          "time": 10989,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Tbilisi FreeUni: 1 (Dolaberidze, Nadareishvili, Tsimakuridze)",
+      "university": "Tbilisi FreeUni",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1628,
+          "tries": 1
+        },
+        "B": {
+          "time": 17048,
+          "tries": 2
+        },
+        "D": {
+          "time": 8910,
+          "tries": 2
+        },
+        "E": {
+          "time": 3728,
+          "tries": 4
+        },
+        "F": {
+          "time": 6326,
+          "tries": 2
+        },
+        "J": {
+          "time": 5993,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Moscow SU: The Meanwhiles (Denisev, Bazilevich, Yakunin)",
+      "university": "Moscow SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1397,
+          "tries": 2
+        },
+        "B": {
+          "time": 6007,
+          "tries": 4,
+          "first": true
+        },
+        "D": {
+          "time": 11355,
+          "tries": 1
+        },
+        "E": {
+          "time": 4822,
+          "tries": 5
+        },
+        "F": {
+          "time": 4341,
+          "tries": 2
+        },
+        "J": {
+          "time": 9274,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "TulaSU: 2 kak nibud (Salygina, Provotorin, Khikmatov)",
+      "university": "TulaSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7687,
+          "tries": 2
+        },
+        "B": {
+          "time": 15045,
+          "tries": 3
+        },
+        "D": {
+          "time": 10065,
+          "tries": 1
+        },
+        "E": {
+          "time": 1492,
+          "tries": 2
+        },
+        "F": {
+          "time": 3405,
+          "tries": 2
+        },
+        "J": {
+          "time": 7292,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Nizhny Novgorod HSE: Almost Expelled (Konov, Melnikov, Lebedev)",
+      "university": "Nizhny Novgorod HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1759,
+          "tries": 1
+        },
+        "D": {
+          "time": 7153,
+          "tries": 1
+        },
+        "E": {
+          "time": 5611,
+          "tries": 2
+        },
+        "F": {
+          "time": 3683,
+          "tries": 3
+        },
+        "G": {
+          "time": 15482,
+          "tries": 4
+        },
+        "J": {
+          "time": 9231,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "Novosibirsk SU: 1 CtrlAltDeFIT (Lylova, Goncharov, Malinovskii)",
+      "university": "Novosibirsk SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 8504,
+          "tries": 3
+        },
+        "B": {
+          "time": 15303,
+          "tries": 4
+        },
+        "D": {
+          "time": 10668,
+          "tries": 2
+        },
+        "E": {
+          "time": 1388,
+          "tries": 1
+        },
+        "F": {
+          "time": 2734,
+          "tries": 1
+        },
+        "J": {
+          "time": 6889,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Moscow SU: ConTesters (Khomutov, Pervushev, Gadzhiev)",
+      "university": "Moscow SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6385,
+          "tries": 1
+        },
+        "B": {
+          "time": 17009,
+          "tries": 2
+        },
+        "D": {
+          "time": 11390,
+          "tries": 2
+        },
+        "E": {
+          "time": 4000,
+          "tries": 1
+        },
+        "F": {
+          "time": 3497,
+          "tries": 1
+        },
+        "J": {
+          "time": 8920,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Innopolis: W (Gulladyyev, Alhussin, Khaddour)",
+      "university": "Innopolis",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3647,
+          "tries": 2
+        },
+        "D": {
+          "time": 8993,
+          "tries": 5
+        },
+        "E": {
+          "time": 2086,
+          "tries": 6
+        },
+        "F": {
+          "time": 3275,
+          "tries": 1
+        },
+        "J": {
+          "time": 5137,
+          "tries": 1
+        },
+        "M": {
+          "time": 13182,
+          "tries": 6
+        }
+      }
+    },
+    {
+      "name": "Penza SU: B (Kalugin, Abuzyarov, Dorofeyev)",
+      "university": "Penza SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2811,
+          "tries": 1
+        },
+        "B": {
+          "time": 17580,
+          "tries": 2
+        },
+        "D": {
+          "time": 9308,
+          "tries": 1
+        },
+        "E": {
+          "time": 8151,
+          "tries": 4
+        },
+        "F": {
+          "time": 1562,
+          "tries": 1
+        },
+        "J": {
+          "time": 11154,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "SPb ITMO: e-boots (Borisov, Ostapenko, Pospelov)",
+      "university": "SPb ITMO",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1769,
+          "tries": 1
+        },
+        "D": {
+          "time": 11368,
+          "tries": 2
+        },
+        "E": {
+          "time": 5100,
+          "tries": 1
+        },
+        "F": {
+          "time": 3483,
+          "tries": 1
+        },
+        "J": {
+          "time": 8831,
+          "tries": 3
+        },
+        "M": {
+          "time": 17799,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "Ural FU: K&B++ (Malin, Dmitriev, Imaev)",
+      "university": "Ural FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1726,
+          "tries": 2
+        },
+        "D": {
+          "time": 5458,
+          "tries": 1
+        },
+        "E": {
+          "time": 4725,
+          "tries": 4
+        },
+        "F": {
+          "time": 4140,
+          "tries": 3
+        },
+        "G": {
+          "time": 17936,
+          "tries": 9
+        },
+        "J": {
+          "time": 7387,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "MEPhI: Reactor and Chrome (Bogolyubov, Sokolov, Zakharov)",
+      "university": "MEPhI",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2745,
+          "tries": 1
+        },
+        "D": {
+          "time": 9859,
+          "tries": 2
+        },
+        "E": {
+          "time": 6494,
+          "tries": 8
+        },
+        "F": {
+          "time": 1295,
+          "tries": 1
+        },
+        "J": {
+          "time": 4893,
+          "tries": 1
+        },
+        "M": {
+          "time": 17399,
+          "tries": 8
+        }
+      }
+    },
+    {
+      "name": "Nazarbayev U: Jasdauren Street (Tasmukhanov, Maksotov, Shinbay)",
+      "university": "Nazarbayev U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7212,
+          "tries": 6
+        },
+        "B": {
+          "time": 14637,
+          "tries": 4
+        },
+        "D": {
+          "time": 5734,
+          "tries": 1
+        },
+        "E": {
+          "time": 7496,
+          "tries": 5
+        },
+        "F": {
+          "time": 1755,
+          "tries": 1
+        },
+        "J": {
+          "time": 9628,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Skoltech: Red-Black Trio (Kushneryuk, Aliev, Mikhailov)",
+      "university": "Skoltech",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4633,
+          "tries": 1
+        },
+        "B": {
+          "time": 16190,
+          "tries": 1
+        },
+        "D": {
+          "time": 12586,
+          "tries": 1
+        },
+        "E": {
+          "time": 5109,
+          "tries": 3
+        },
+        "F": {
+          "time": 9020,
+          "tries": 2
+        },
+        "J": {
+          "time": 9997,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "Leonov UNITECH: Mean Absolute Error (Hizhuk, Kuzmenko, Pogodin)",
+      "university": "Leonov UNITECH",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4258,
+          "tries": 2
+        },
+        "B": {
+          "time": 10927,
+          "tries": 3
+        },
+        "D": {
+          "time": 16860,
+          "tries": 4
+        },
+        "E": {
+          "time": 5344,
+          "tries": 2
+        },
+        "F": {
+          "time": 2595,
+          "tries": 3
+        },
+        "J": {
+          "time": 12389,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Ural FU: the team (Bazeev, Koshkin, Kremensky)",
+      "university": "Ural FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1370,
+          "tries": 1
+        },
+        "B": {
+          "time": 15319,
+          "tries": 2
+        },
+        "D": {
+          "time": 16512,
+          "tries": 2
+        },
+        "E": {
+          "time": 8418,
+          "tries": 6
+        },
+        "F": {
+          "time": 2975,
+          "tries": 1
+        },
+        "J": {
+          "time": 13826,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "CentralU: but there is a caveat (Gabdullin, Golikov, Porkhunov)",
+      "university": "CentralU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3126,
+          "tries": 2
+        },
+        "B": {
+          "time": 17756,
+          "tries": 7
+        },
+        "D": {
+          "time": 13756,
+          "tries": 1
+        },
+        "E": {
+          "time": 4261,
+          "tries": 4
+        },
+        "F": {
+          "time": 7114,
+          "tries": 1
+        },
+        "J": {
+          "time": 9953,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "SPb ITMO: bobry (Tuisov, Cherepanov, Skobelin)",
+      "university": "SPb ITMO",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1975,
+          "tries": 1
+        },
+        "B": {
+          "time": 9694,
+          "tries": 3
+        },
+        "E": {
+          "time": 8145,
+          "tries": 5
+        },
+        "F": {
+          "time": 11675,
+          "tries": 1
+        },
+        "I": {
+          "time": 15045,
+          "tries": 11
+        },
+        "J": {
+          "time": 3570,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Grodno SU: 1 (Laktsevich, Malyshka, Vyskvarka)",
+      "university": "Grodno SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1518,
+          "tries": 1
+        },
+        "D": {
+          "time": 17016,
+          "tries": 1
+        },
+        "E": {
+          "time": 6924,
+          "tries": 5
+        },
+        "F": {
+          "time": 6174,
+          "tries": 4
+        },
+        "J": {
+          "time": 14990,
+          "tries": 5
+        },
+        "M": {
+          "time": 13970,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "TUIT: DASH (Mirakilov, Ma'rufjonov, Rahmatillayev)",
+      "university": "TUIT",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1430,
+          "tries": 1
+        },
+        "D": {
+          "time": 10507,
+          "tries": 3
+        },
+        "E": {
+          "time": 3686,
+          "tries": 2
+        },
+        "F": {
+          "time": 2156,
+          "tries": 1
+        },
+        "J": {
+          "time": 6562,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "MSU Tashkent: 2men1ramen (Ashrapov, Kim, Abduraimov)",
+      "university": "MSU Tashkent",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1180,
+          "tries": 1
+        },
+        "D": {
+          "time": 7158,
+          "tries": 1
+        },
+        "E": {
+          "time": 4553,
+          "tries": 3
+        },
+        "F": {
+          "time": 1651,
+          "tries": 1
+        },
+        "J": {
+          "time": 9809,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "Kazakh-British TU: Master ka4ka (Torekeldi, Syrgabayev, Perdebai)",
+      "university": "Kazakh-British TU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5117,
+          "tries": 1
+        },
+        "D": {
+          "time": 8273,
+          "tries": 1
+        },
+        "E": {
+          "time": 4661,
+          "tries": 3
+        },
+        "F": {
+          "time": 1899,
+          "tries": 2
+        },
+        "J": {
+          "time": 7865,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Saratov State U: J (Bykova, Rodin, Gozheva)",
+      "university": "Saratov State U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1468,
+          "tries": 2
+        },
+        "D": {
+          "time": 7949,
+          "tries": 1
+        },
+        "E": {
+          "time": 6361,
+          "tries": 4
+        },
+        "F": {
+          "time": 2819,
+          "tries": 1
+        },
+        "J": {
+          "time": 9424,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Belarusian SU: 2 Komaru, Komugi and Cocoa (Kharasau, Koshchanka, Kastsiany)",
+      "university": "Belarusian SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2233,
+          "tries": 1
+        },
+        "D": {
+          "time": 11809,
+          "tries": 4
+        },
+        "E": {
+          "time": 3050,
+          "tries": 3
+        },
+        "F": {
+          "time": 3912,
+          "tries": 1
+        },
+        "J": {
+          "time": 5837,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "NEFU: Ice Guys (Dmitriev, Dyachkovskiy, Kulichkin)",
+      "university": "NEFU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4847,
+          "tries": 2
+        },
+        "E": {
+          "time": 2889,
+          "tries": 2
+        },
+        "F": {
+          "time": 818,
+          "tries": 1
+        },
+        "J": {
+          "time": 6171,
+          "tries": 1
+        },
+        "M": {
+          "time": 16008,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Ural FU: team (Khramov, Rudakovskiy, Rychkov)",
+      "university": "Ural FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1103,
+          "tries": 1
+        },
+        "D": {
+          "time": 13189,
+          "tries": 2
+        },
+        "E": {
+          "time": 6062,
+          "tries": 1
+        },
+        "F": {
+          "time": 3786,
+          "tries": 1
+        },
+        "J": {
+          "time": 8859,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "MEPhI: TheAirShip (Tunyov, Eliseev, Akhmadullin)",
+      "university": "MEPhI",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3545,
+          "tries": 1
+        },
+        "D": {
+          "time": 13742,
+          "tries": 2
+        },
+        "E": {
+          "time": 2253,
+          "tries": 3
+        },
+        "F": {
+          "time": 2791,
+          "tries": 2
+        },
+        "J": {
+          "time": 7090,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "BSUIR: 2 Nu chto (Farisey, Matsiusheuski, Nestsiarovich)",
+      "university": "BSUIR",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3223,
+          "tries": 1
+        },
+        "D": {
+          "time": 5911,
+          "tries": 1
+        },
+        "E": {
+          "time": 7101,
+          "tries": 8
+        },
+        "F": {
+          "time": 2905,
+          "tries": 1
+        },
+        "J": {
+          "time": 7391,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "IITU: 2 Rubber Bug Deduckers (Ten, Srazhov, Kapitov)",
+      "university": "IITU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1632,
+          "tries": 1
+        },
+        "D": {
+          "time": 15866,
+          "tries": 4
+        },
+        "E": {
+          "time": 3796,
+          "tries": 1
+        },
+        "F": {
+          "time": 1981,
+          "tries": 1
+        },
+        "J": {
+          "time": 7398,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Kalashnikov ISTU: Ardecs Team (Kismatov, Lykov, Gogolev)",
+      "university": "Kalashnikov ISTU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1669,
+          "tries": 1
+        },
+        "D": {
+          "time": 9346,
+          "tries": 2
+        },
+        "E": {
+          "time": 5234,
+          "tries": 3
+        },
+        "F": {
+          "time": 2733,
+          "tries": 1
+        },
+        "J": {
+          "time": 13206,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "SFedU: ICTIS J (Vasilchenko, Zhuikov, Lavshonok)",
+      "university": "SFedU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1267,
+          "tries": 1
+        },
+        "D": {
+          "time": 10013,
+          "tries": 5
+        },
+        "E": {
+          "time": 4579,
+          "tries": 5
+        },
+        "F": {
+          "time": 1992,
+          "tries": 1
+        },
+        "J": {
+          "time": 8419,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Kazan FU: Hamster bad treap (Sagitov, Khasanov, Valeev)",
+      "university": "Kazan FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2773,
+          "tries": 2
+        },
+        "D": {
+          "time": 11318,
+          "tries": 2
+        },
+        "E": {
+          "time": 3029,
+          "tries": 4
+        },
+        "F": {
+          "time": 7365,
+          "tries": 2
+        },
+        "J": {
+          "time": 4724,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Petrozavodsk SU: sudo -E bash (Gorchakov, Alekseev, Gasova)",
+      "university": "Petrozavodsk SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4769,
+          "tries": 1
+        },
+        "D": {
+          "time": 10214,
+          "tries": 2
+        },
+        "E": {
+          "time": 5768,
+          "tries": 2
+        },
+        "F": {
+          "time": 3635,
+          "tries": 2
+        },
+        "J": {
+          "time": 9698,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "OrelSU: 1 CatForces (Kashirin, Nikulin, Yakovlev)",
+      "university": "OrelSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2139,
+          "tries": 1
+        },
+        "D": {
+          "time": 9354,
+          "tries": 1
+        },
+        "E": {
+          "time": 4768,
+          "tries": 2
+        },
+        "F": {
+          "time": 3475,
+          "tries": 2
+        },
+        "J": {
+          "time": 10336,
+          "tries": 6
+        }
+      }
+    },
+    {
+      "name": "SDU: InParis (Serkebay, Maskeugaliyev, Kozhakov)",
+      "university": "SDU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3026,
+          "tries": 1
+        },
+        "D": {
+          "time": 12625,
+          "tries": 1
+        },
+        "E": {
+          "time": 9577,
+          "tries": 2
+        },
+        "F": {
+          "time": 790,
+          "tries": 1
+        },
+        "J": {
+          "time": 10333,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Ural FU: #define ll int (Semenov, Gordeev, Nikiforov)",
+      "university": "Ural FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2860,
+          "tries": 1
+        },
+        "D": {
+          "time": 6228,
+          "tries": 1
+        },
+        "E": {
+          "time": 11823,
+          "tries": 4
+        },
+        "F": {
+          "time": 4622,
+          "tries": 1
+        },
+        "J": {
+          "time": 9888,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "BMSTU: Deti Maminoi Podrugi (Butacu, Kozhin, Fetisov)",
+      "university": "BMSTU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4129,
+          "tries": 1
+        },
+        "D": {
+          "time": 14776,
+          "tries": 1
+        },
+        "E": {
+          "time": 7014,
+          "tries": 1
+        },
+        "F": {
+          "time": 1571,
+          "tries": 1
+        },
+        "J": {
+          "time": 10483,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "BHOS: 1 (Isayev, Orujov, Jamaladdinli)",
+      "university": "BHOS",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2423,
+          "tries": 4
+        },
+        "D": {
+          "time": 12303,
+          "tries": 1
+        },
+        "E": {
+          "time": 5759,
+          "tries": 3
+        },
+        "F": {
+          "time": 4536,
+          "tries": 1
+        },
+        "J": {
+          "time": 8262,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "I.J. Tbilisi SU: 1 (Gamezardashvili, Khvedelidze, Macharashvili)",
+      "university": "I.J. Tbilisi SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2033,
+          "tries": 1
+        },
+        "D": {
+          "time": 10658,
+          "tries": 4
+        },
+        "E": {
+          "time": 2192,
+          "tries": 3
+        },
+        "F": {
+          "time": 4303,
+          "tries": 6
+        },
+        "J": {
+          "time": 7715,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "VoronezhSU: I (Edryshov, Pechenkin, Lugovskoy)",
+      "university": "VoronezhSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6037,
+          "tries": 1
+        },
+        "D": {
+          "time": 8423,
+          "tries": 1
+        },
+        "E": {
+          "time": 4433,
+          "tries": 5
+        },
+        "F": {
+          "time": 4907,
+          "tries": 1
+        },
+        "J": {
+          "time": 12115,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "BSUIR: 6 aonbel haters (Liubashenko, Belavusau, Bachkou)",
+      "university": "BSUIR",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5743,
+          "tries": 1
+        },
+        "D": {
+          "time": 15622,
+          "tries": 4
+        },
+        "E": {
+          "time": 4953,
+          "tries": 1
+        },
+        "F": {
+          "time": 1746,
+          "tries": 1
+        },
+        "J": {
+          "time": 8034,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Saratov State U: L (Eremenko, Utaliyev, Yanchenko)",
+      "university": "Saratov State U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1340,
+          "tries": 1
+        },
+        "D": {
+          "time": 12020,
+          "tries": 1
+        },
+        "E": {
+          "time": 7639,
+          "tries": 3
+        },
+        "F": {
+          "time": 4812,
+          "tries": 2
+        },
+        "J": {
+          "time": 9608,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "SDU: Egoisto (Zhanibekov, Ibodullayev, Amangeldin)",
+      "university": "SDU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1311,
+          "tries": 1
+        },
+        "D": {
+          "time": 15680,
+          "tries": 3
+        },
+        "E": {
+          "time": 4753,
+          "tries": 1
+        },
+        "F": {
+          "time": 2193,
+          "tries": 1
+        },
+        "J": {
+          "time": 16999,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Belarusian SU: 4 kitties (Afanasenko, Radoshka, Malakovich)",
+      "university": "Belarusian SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 411,
+          "tries": 1,
+          "first": true
+        },
+        "D": {
+          "time": 6346,
+          "tries": 2
+        },
+        "E": {
+          "time": 4341,
+          "tries": 3
+        },
+        "F": {
+          "time": 2653,
+          "tries": 1
+        },
+        "J": {
+          "time": 14576,
+          "tries": 12
+        }
+      }
+    },
+    {
+      "name": "Yerevan SU: VSR Very Serious Round (Tsirunyan, Susanyan, Grigoryan)",
+      "university": "Yerevan SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1886,
+          "tries": 1
+        },
+        "D": {
+          "time": 10575,
+          "tries": 1
+        },
+        "E": {
+          "time": 6682,
+          "tries": 2
+        },
+        "F": {
+          "time": 7215,
+          "tries": 3
+        },
+        "J": {
+          "time": 15394,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "NNSU: UUU (Gutyanskij, Izmaylov, Podyachih)",
+      "university": "NNSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5367,
+          "tries": 2
+        },
+        "B": {
+          "time": 17622,
+          "tries": 7
+        },
+        "D": {
+          "time": 7454,
+          "tries": 1
+        },
+        "E": {
+          "time": 4280,
+          "tries": 2
+        },
+        "F": {
+          "time": 1623,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Belarusian SU: 7 loverov lovers (Katsuk, Bychyk, Shmygaliov)",
+      "university": "Belarusian SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5293,
+          "tries": 2
+        },
+        "D": {
+          "time": 15864,
+          "tries": 5
+        },
+        "E": {
+          "time": 6575,
+          "tries": 3
+        },
+        "F": {
+          "time": 2934,
+          "tries": 1
+        },
+        "J": {
+          "time": 8969,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "NNSU: Kokoro (Upirvitskiy, Burdukov, Tsypliakova)",
+      "university": "NNSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1239,
+          "tries": 1
+        },
+        "D": {
+          "time": 6178,
+          "tries": 1
+        },
+        "E": {
+          "time": 11414,
+          "tries": 5
+        },
+        "F": {
+          "time": 7611,
+          "tries": 4
+        },
+        "J": {
+          "time": 12159,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Nazarbayev U: SexyBachelors (Duisengaliyev, Abdirashov, Ashirbek)",
+      "university": "Nazarbayev U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2683,
+          "tries": 1
+        },
+        "D": {
+          "time": 15747,
+          "tries": 10
+        },
+        "E": {
+          "time": 6438,
+          "tries": 3
+        },
+        "F": {
+          "time": 2317,
+          "tries": 3
+        },
+        "J": {
+          "time": 4454,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Kazan FU: G (Sudakov, Beloborodov, Grazhdantsev)",
+      "university": "Kazan FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6387,
+          "tries": 1
+        },
+        "D": {
+          "time": 16213,
+          "tries": 1
+        },
+        "E": {
+          "time": 7179,
+          "tries": 4
+        },
+        "F": {
+          "time": 2415,
+          "tries": 1
+        },
+        "J": {
+          "time": 12011,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Tbilisi FreeUni: 2 (Gelashvili, Khutsishvili, Kobakhia)",
+      "university": "Tbilisi FreeUni",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1050,
+          "tries": 1
+        },
+        "D": {
+          "time": 12436,
+          "tries": 5
+        },
+        "E": {
+          "time": 4625,
+          "tries": 2
+        },
+        "F": {
+          "time": 2833,
+          "tries": 3
+        },
+        "J": {
+          "time": 16089,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "YarSU: 2 O(0) (Maslenikov, Dybulina, Krotov)",
+      "university": "YarSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2315,
+          "tries": 2
+        },
+        "D": {
+          "time": 13026,
+          "tries": 1
+        },
+        "E": {
+          "time": 7992,
+          "tries": 2
+        },
+        "F": {
+          "time": 7312,
+          "tries": 5
+        },
+        "J": {
+          "time": 10787,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "MAI: 3 (Tkachenko, Chesnov, Glushin)",
+      "university": "MAI",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1870,
+          "tries": 1
+        },
+        "D": {
+          "time": 15787,
+          "tries": 1
+        },
+        "E": {
+          "time": 10828,
+          "tries": 4
+        },
+        "F": {
+          "time": 4830,
+          "tries": 3
+        },
+        "J": {
+          "time": 10006,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Innopolis: D (Dyudin, Khairullin, Pecherskiy)",
+      "university": "Innopolis",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4363,
+          "tries": 1
+        },
+        "D": {
+          "time": 14078,
+          "tries": 3
+        },
+        "E": {
+          "time": 3919,
+          "tries": 1
+        },
+        "F": {
+          "time": 13502,
+          "tries": 9
+        },
+        "J": {
+          "time": 6478,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Belarusian SU: 5 Inspiration (Parfionau, Shtanau, Senin)",
+      "university": "Belarusian SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1944,
+          "tries": 2
+        },
+        "D": {
+          "time": 8620,
+          "tries": 1
+        },
+        "E": {
+          "time": 6532,
+          "tries": 5
+        },
+        "F": {
+          "time": 9351,
+          "tries": 6
+        },
+        "J": {
+          "time": 14094,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "Kazan FU: RGBA+ (Novozhilov, Fazylov, Gizzatullin)",
+      "university": "Kazan FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 15422,
+          "tries": 4
+        },
+        "D": {
+          "time": 9179,
+          "tries": 2
+        },
+        "E": {
+          "time": 8554,
+          "tries": 1
+        },
+        "F": {
+          "time": 3909,
+          "tries": 2
+        },
+        "J": {
+          "time": 12457,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Kazakh-British TU: Team spirt (Aspandiyarov, Beloussov, Merezhko)",
+      "university": "Kazakh-British TU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7548,
+          "tries": 2
+        },
+        "D": {
+          "time": 10241,
+          "tries": 5
+        },
+        "E": {
+          "time": 3635,
+          "tries": 4
+        },
+        "F": {
+          "time": 5903,
+          "tries": 4
+        },
+        "J": {
+          "time": 12944,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "NArFU: 6 NULL (Lodygin, Burkov, Starikov)",
+      "university": "NArFU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4253,
+          "tries": 1
+        },
+        "D": {
+          "time": 14116,
+          "tries": 6
+        },
+        "E": {
+          "time": 5440,
+          "tries": 5
+        },
+        "F": {
+          "time": 5077,
+          "tries": 2
+        },
+        "J": {
+          "time": 16361,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Moscow SU: broken cisgenders (Kostychev, Tokar, Gareev)",
+      "university": "Moscow SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5762,
+          "tries": 2
+        },
+        "B": {
+          "time": 16605,
+          "tries": 3
+        },
+        "E": {
+          "time": 6855,
+          "tries": 5
+        },
+        "F": {
+          "time": 3205,
+          "tries": 2
+        },
+        "J": {
+          "time": 11696,
+          "tries": 6
+        }
+      }
+    },
+    {
+      "name": "SPb HSE: 316 (Afonkin, Filatov, Povolotskij)",
+      "university": "SPb HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6816,
+          "tries": 4
+        },
+        "D": {
+          "time": 14786,
+          "tries": 1
+        },
+        "E": {
+          "time": 11720,
+          "tries": 4
+        },
+        "F": {
+          "time": 8205,
+          "tries": 2
+        },
+        "J": {
+          "time": 11028,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "ADA: 1 (Sakhrayev, Aliyev, Gasimli)",
+      "university": "ADA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1060,
+          "tries": 1
+        },
+        "D": {
+          "time": 12990,
+          "tries": 4
+        },
+        "E": {
+          "time": 6013,
+          "tries": 3
+        },
+        "F": {
+          "time": 14622,
+          "tries": 3
+        },
+        "J": {
+          "time": 16324,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "MISiS: Fiksiki (Skobelev, Maximov, Shalimov)",
+      "university": "MISiS",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4444,
+          "tries": 1
+        },
+        "E": {
+          "time": 12803,
+          "tries": 7
+        },
+        "F": {
+          "time": 4741,
+          "tries": 1
+        },
+        "J": {
+          "time": 9055,
+          "tries": 2
+        },
+        "M": {
+          "time": 17715,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "Ural FU: keks feks peks (Sobolev, Vertiprakhov, Safronov)",
+      "university": "Ural FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 10251,
+          "tries": 2
+        },
+        "B": {
+          "time": 17017,
+          "tries": 2
+        },
+        "D": {
+          "time": 13690,
+          "tries": 1
+        },
+        "E": {
+          "time": 8957,
+          "tries": 2
+        },
+        "J": {
+          "time": 9925,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "NNSU: WeDone (Samokhin, Sautenkov, Kolobkov)",
+      "university": "NNSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 16877,
+          "tries": 6
+        },
+        "D": {
+          "time": 15001,
+          "tries": 3
+        },
+        "E": {
+          "time": 6066,
+          "tries": 2
+        },
+        "F": {
+          "time": 3876,
+          "tries": 2
+        },
+        "J": {
+          "time": 11110,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Polytech: Black Bears (Zadorozhnii, Narumov, Evstunichev)",
+      "university": "Polytech",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 17464,
+          "tries": 9
+        },
+        "D": {
+          "time": 1601,
+          "tries": 2,
+          "first": true
+        },
+        "E": {
+          "time": 7610,
+          "tries": 1
+        },
+        "F": {
+          "time": 4613,
+          "tries": 3
+        },
+        "J": {
+          "time": 16562,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "Moscow Tech U MIREA: flying above the wave of expulsions (Kiriakov, Isakov, Kobetz)",
+      "university": "Moscow Tech U MIREA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2105,
+          "tries": 1
+        },
+        "D": {
+          "time": 14611,
+          "tries": 4
+        },
+        "E": {
+          "time": 7335,
+          "tries": 1
+        },
+        "F": {
+          "time": 17811,
+          "tries": 5
+        },
+        "J": {
+          "time": 15713,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "AITU: Just do it (Zhangabergen, Taubakabyl, Kadirbay)",
+      "university": "AITU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1422,
+          "tries": 2
+        },
+        "E": {
+          "time": 5746,
+          "tries": 3
+        },
+        "F": {
+          "time": 3194,
+          "tries": 1
+        },
+        "J": {
+          "time": 4044,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "St. Petersburg SU: I See Personal Computer (Likhachev, Moskalenko, Zaitsev)",
+      "university": "St. Petersburg SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 910,
+          "tries": 1
+        },
+        "D": {
+          "time": 8980,
+          "tries": 2
+        },
+        "E": {
+          "time": 6608,
+          "tries": 1
+        },
+        "F": {
+          "time": 2686,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "MAI: 7 (Manoshin, Biriukov, Nasonkov)",
+      "university": "MAI",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3209,
+          "tries": 1
+        },
+        "E": {
+          "time": 4187,
+          "tries": 1
+        },
+        "F": {
+          "time": 6148,
+          "tries": 1
+        },
+        "J": {
+          "time": 9498,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "CFUV: KrymSky MAK (Mikerin, Ablyalimov, Krivoshey)",
+      "university": "CFUV",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3330,
+          "tries": 1
+        },
+        "E": {
+          "time": 8158,
+          "tries": 3
+        },
+        "F": {
+          "time": 2244,
+          "tries": 1
+        },
+        "J": {
+          "time": 7751,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Saratov State U: N (Druzhkin, Potapkina, Anofrikova)",
+      "university": "Saratov State U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5167,
+          "tries": 2
+        },
+        "E": {
+          "time": 4561,
+          "tries": 2
+        },
+        "F": {
+          "time": 4441,
+          "tries": 2
+        },
+        "J": {
+          "time": 10373,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "St. Petersburg SU: KoMariKo (Korotchenko, Korotchenko, Pakkanen)",
+      "university": "St. Petersburg SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2322,
+          "tries": 1
+        },
+        "D": {
+          "time": 10039,
+          "tries": 3
+        },
+        "F": {
+          "time": 2260,
+          "tries": 2
+        },
+        "J": {
+          "time": 10104,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "NewUU: Three Dinosaurs (Mansuraliyev, Erkinov, Hazratov)",
+      "university": "NewUU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2156,
+          "tries": 2
+        },
+        "E": {
+          "time": 5864,
+          "tries": 4
+        },
+        "F": {
+          "time": 5422,
+          "tries": 2
+        },
+        "J": {
+          "time": 9648,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "MAI: 5 (Pochechura, Rechinskaya, Smirnov)",
+      "university": "MAI",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5989,
+          "tries": 1
+        },
+        "E": {
+          "time": 7182,
+          "tries": 3
+        },
+        "F": {
+          "time": 3180,
+          "tries": 2
+        },
+        "J": {
+          "time": 10975,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Belarusian SU: 8 squirrelz (Zorka, Kondibor, Zarouski)",
+      "university": "Belarusian SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3729,
+          "tries": 2
+        },
+        "E": {
+          "time": 6224,
+          "tries": 2
+        },
+        "F": {
+          "time": 7086,
+          "tries": 3
+        },
+        "J": {
+          "time": 10142,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Perm NRPU: Right-Paw Rule (Nyashin, Ulyanova, Noskov)",
+      "university": "Perm NRPU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3051,
+          "tries": 1
+        },
+        "E": {
+          "time": 4853,
+          "tries": 1
+        },
+        "F": {
+          "time": 12737,
+          "tries": 6
+        },
+        "J": {
+          "time": 5943,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "SPbETU: watermelon (Bakin, Lutsenka, Ignatiev)",
+      "university": "SPbETU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4194,
+          "tries": 3
+        },
+        "E": {
+          "time": 3362,
+          "tries": 3
+        },
+        "F": {
+          "time": 2990,
+          "tries": 3
+        },
+        "J": {
+          "time": 13222,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "Far Eastern FU: CODE work Team (Timofeev, Merkurev, Korolev)",
+      "university": "Far Eastern FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 8330,
+          "tries": 1
+        },
+        "E": {
+          "time": 6863,
+          "tries": 2
+        },
+        "F": {
+          "time": 5505,
+          "tries": 2
+        },
+        "J": {
+          "time": 12580,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "NNSU: Everybody stay panic (Ustinov, Alyaseva, Romanov)",
+      "university": "NNSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5337,
+          "tries": 2
+        },
+        "E": {
+          "time": 9605,
+          "tries": 2
+        },
+        "F": {
+          "time": 2774,
+          "tries": 2
+        },
+        "J": {
+          "time": 14382,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "TamSU: TeamSpivom (Dyrdin, Emelyanov, Anisimov)",
+      "university": "TamSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5464,
+          "tries": 2
+        },
+        "E": {
+          "time": 3964,
+          "tries": 5
+        },
+        "F": {
+          "time": 3737,
+          "tries": 2
+        },
+        "J": {
+          "time": 10593,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "AITU: Tima Fan Club (Mussabay, Abilgaziyev, Zhonkebayev)",
+      "university": "AITU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2872,
+          "tries": 3
+        },
+        "E": {
+          "time": 8982,
+          "tries": 3
+        },
+        "F": {
+          "time": 4054,
+          "tries": 1
+        },
+        "J": {
+          "time": 15372,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "MEPhI: Useless but powerful (Anzin, Melnikov, Ivanenko)",
+      "university": "MEPhI",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5933,
+          "tries": 2
+        },
+        "E": {
+          "time": 4669,
+          "tries": 1
+        },
+        "F": {
+          "time": 12616,
+          "tries": 7
+        },
+        "J": {
+          "time": 5629,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Ufa UST: O(verly complicated) (Malanchenko, Zendel, Tlyavsin)",
+      "university": "Ufa UST",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1817,
+          "tries": 1
+        },
+        "E": {
+          "time": 8020,
+          "tries": 10
+        },
+        "F": {
+          "time": 3389,
+          "tries": 1
+        },
+        "J": {
+          "time": 12562,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "South Ural SU: Three-headed programmer 2-2 (Alekseev, Morozov, Gubin)",
+      "university": "South Ural SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1507,
+          "tries": 1
+        },
+        "D": {
+          "time": 16424,
+          "tries": 1
+        },
+        "E": {
+          "time": 7423,
+          "tries": 6
+        },
+        "F": {
+          "time": 3519,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "Semipalatinsk SU: SemeyLand (Mukhametkarim, Maratov, Sembinov)",
+      "university": "Semipalatinsk SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5450,
+          "tries": 1
+        },
+        "E": {
+          "time": 9118,
+          "tries": 1
+        },
+        "F": {
+          "time": 6596,
+          "tries": 1
+        },
+        "J": {
+          "time": 17472,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Tbilisi FreeUni: 13 (Mirimanashvili, Pkhaladze, Managadze)",
+      "university": "Tbilisi FreeUni",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3788,
+          "tries": 1
+        },
+        "D": {
+          "time": 17252,
+          "tries": 3
+        },
+        "E": {
+          "time": 3888,
+          "tries": 3
+        },
+        "F": {
+          "time": 7569,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "SDU: EDITz (Abutali, Kuzmin, Omarov)",
+      "university": "SDU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6395,
+          "tries": 2
+        },
+        "E": {
+          "time": 11497,
+          "tries": 3
+        },
+        "F": {
+          "time": 3141,
+          "tries": 1
+        },
+        "J": {
+          "time": 15601,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "AUCA: Team 10 (Rakhmatov, Atabekov, Zhalalidinov)",
+      "university": "AUCA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 11067,
+          "tries": 1
+        },
+        "E": {
+          "time": 3378,
+          "tries": 4
+        },
+        "F": {
+          "time": 4053,
+          "tries": 1
+        },
+        "J": {
+          "time": 17315,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "YarSU: 21 mmm (Rakushin, Vorobyov, Chirkov)",
+      "university": "YarSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1985,
+          "tries": 3
+        },
+        "D": {
+          "time": 13310,
+          "tries": 1
+        },
+        "E": {
+          "time": 9306,
+          "tries": 6
+        },
+        "F": {
+          "time": 4881,
+          "tries": 6
+        }
+      }
+    },
+    {
+      "name": "SPb SUT: Kabachki.SUT (Proshak, Starkov, Zakharov)",
+      "university": "SPb SUT",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4533,
+          "tries": 1
+        },
+        "E": {
+          "time": 16021,
+          "tries": 4
+        },
+        "F": {
+          "time": 4131,
+          "tries": 2
+        },
+        "J": {
+          "time": 14635,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "ADA: 2 (Mammadli, Inochkin, Alaskarli)",
+      "university": "ADA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2695,
+          "tries": 3
+        },
+        "E": {
+          "time": 5854,
+          "tries": 2
+        },
+        "F": {
+          "time": 16984,
+          "tries": 6
+        },
+        "J": {
+          "time": 9675,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Kazakh-British TU: J4F (Kurmash, Mazhiken, Nurikhanov)",
+      "university": "Kazakh-British TU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6824,
+          "tries": 1
+        },
+        "E": {
+          "time": 15678,
+          "tries": 12
+        },
+        "F": {
+          "time": 2068,
+          "tries": 1
+        },
+        "J": {
+          "time": 6249,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "South Ural SU: Towards the Abyss (Sarapultsev, Glazov, Ryasov)",
+      "university": "South Ural SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3238,
+          "tries": 1
+        },
+        "D": {
+          "time": 17233,
+          "tries": 8
+        },
+        "E": {
+          "time": 7236,
+          "tries": 4
+        },
+        "F": {
+          "time": 5656,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "BMSTU: Team and Maksim (Blinov, Shepelev, Abramov)",
+      "university": "BMSTU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1708,
+          "tries": 1
+        },
+        "E": {
+          "time": 7903,
+          "tries": 11
+        },
+        "F": {
+          "time": 5694,
+          "tries": 1
+        },
+        "J": {
+          "time": 17047,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Far Eastern FU: SpaceDuck (Baderik, Zavgorodnev, Ryutin)",
+      "university": "Far Eastern FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7455,
+          "tries": 2
+        },
+        "E": {
+          "time": 13594,
+          "tries": 6
+        },
+        "F": {
+          "time": 2001,
+          "tries": 1
+        },
+        "J": {
+          "time": 16822,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "MISiS: 223 kg Ivana Yakimova (Fadeev, Yakimov, Ilin)",
+      "university": "MISiS",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 17338,
+          "tries": 3
+        },
+        "E": {
+          "time": 6550,
+          "tries": 1
+        },
+        "F": {
+          "time": 5009,
+          "tries": 1
+        },
+        "J": {
+          "time": 14857,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "SPb HSE: Pivo:Redemption (Tulchinskii, Zhuravlev, Morozov)",
+      "university": "SPb HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 8204,
+          "tries": 2
+        },
+        "E": {
+          "time": 10365,
+          "tries": 4
+        },
+        "F": {
+          "time": 5775,
+          "tries": 1
+        },
+        "J": {
+          "time": 14801,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "Far Eastern FU: Chamliks (Izotov, Vodovskov, Kopiyko)",
+      "university": "Far Eastern FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 12222,
+          "tries": 3
+        },
+        "E": {
+          "time": 5188,
+          "tries": 5
+        },
+        "F": {
+          "time": 6657,
+          "tries": 1
+        },
+        "J": {
+          "time": 15292,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "KazNTU: 1 Thunder (Andas, Ibraim, Niyazbekov)",
+      "university": "KazNTU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5272,
+          "tries": 4
+        },
+        "E": {
+          "time": 7918,
+          "tries": 3
+        },
+        "F": {
+          "time": 3658,
+          "tries": 5
+        },
+        "J": {
+          "time": 14338,
+          "tries": 6
+        }
+      }
+    },
+    {
+      "name": "YarSU: 37 Accepted (Sedov, Bespalov, Ulyanovskaya)",
+      "university": "YarSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 15245,
+          "tries": 3
+        },
+        "E": {
+          "time": 10482,
+          "tries": 2
+        },
+        "F": {
+          "time": 3343,
+          "tries": 1
+        },
+        "J": {
+          "time": 13314,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "MISiS: BIVTIKI (Mikhaylov, Kulorazov, Galitskova)",
+      "university": "MISiS",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4084,
+          "tries": 1
+        },
+        "E": {
+          "time": 16763,
+          "tries": 5
+        },
+        "F": {
+          "time": 8142,
+          "tries": 1
+        },
+        "J": {
+          "time": 13996,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "Kazan FU: O (Mayusupov, Nizomiddinov, Fomin)",
+      "university": "Kazan FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4343,
+          "tries": 1
+        },
+        "D": {
+          "time": 9805,
+          "tries": 7
+        },
+        "E": {
+          "time": 9593,
+          "tries": 13
+        },
+        "F": {
+          "time": 5411,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Tbilisi FreeUni: 6 (Ebanoidze, Suramelashvili, Turabelidze)",
+      "university": "Tbilisi FreeUni",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4086,
+          "tries": 5
+        },
+        "E": {
+          "time": 12473,
+          "tries": 3
+        },
+        "F": {
+          "time": 11875,
+          "tries": 3
+        },
+        "J": {
+          "time": 16346,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Kalashnikov ISTU: OV3RM!ND$ (Ivshin, Drachev, Kulikov)",
+      "university": "Kalashnikov ISTU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1315,
+          "tries": 1
+        },
+        "E": {
+          "time": 7684,
+          "tries": 3
+        },
+        "F": {
+          "time": 15049,
+          "tries": 10
+        },
+        "J": {
+          "time": 16144,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Novosibirsk SU: 3 The League of Deviations (Filippova, Solovev, Gaev)",
+      "university": "Novosibirsk SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7172,
+          "tries": 1
+        },
+        "E": {
+          "time": 17399,
+          "tries": 9
+        },
+        "F": {
+          "time": 3782,
+          "tries": 1
+        },
+        "J": {
+          "time": 16918,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Ufa UST: dibrovtsy! (Adylkhanov, Tagirov, Gabdiev)",
+      "university": "Ufa UST",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5696,
+          "tries": 4
+        },
+        "D": {
+          "time": 10441,
+          "tries": 1
+        },
+        "E": {
+          "time": 13871,
+          "tries": 5
+        },
+        "J": {
+          "time": 16939,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "MTUCI: MOLOKO (Voronin, Shkurinskiy, Kapustin)",
+      "university": "MTUCI",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4679,
+          "tries": 2
+        },
+        "D": {
+          "time": 10488,
+          "tries": 1
+        },
+        "E": {
+          "time": 15094,
+          "tries": 12
+        },
+        "F": {
+          "time": 5490,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "AUCA: \u00c8\u00e2\u00e0\u00ed \u00cf\u00ee\u00f2\u00ed\u00fb\u00e9 (Alpatskaia, Seitaliev, Stahov)",
+      "university": "AUCA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5671,
+          "tries": 1
+        },
+        "E": {
+          "time": 11325,
+          "tries": 7
+        },
+        "F": {
+          "time": 5177,
+          "tries": 2
+        },
+        "J": {
+          "time": 17488,
+          "tries": 9
+        }
+      }
+    },
+    {
+      "name": "SibSUTIS: neutral (Prilepa, Boyarkin, Ruban)",
+      "university": "SibSUTIS",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 10481,
+          "tries": 4
+        },
+        "D": {
+          "time": 14591,
+          "tries": 3
+        },
+        "E": {
+          "time": 17558,
+          "tries": 6
+        },
+        "F": {
+          "time": 4104,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Financial U: Viktor Chagai (Korobkov, Bekirov, Babich)",
+      "university": "Financial U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3126,
+          "tries": 1
+        },
+        "E": {
+          "time": 13554,
+          "tries": 12
+        },
+        "F": {
+          "time": 11794,
+          "tries": 1
+        },
+        "J": {
+          "time": 12602,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "SUAI: 1703 (Semkov, Zaripov, Kononovich)",
+      "university": "SUAI",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2482,
+          "tries": 2
+        },
+        "E": {
+          "time": 10342,
+          "tries": 15
+        },
+        "F": {
+          "time": 10937,
+          "tries": 4
+        },
+        "J": {
+          "time": 14156,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "BSUIR: 74 So Stuffy (Ramasheuski, Malinouski, Baitasau)",
+      "university": "BSUIR",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3483,
+          "tries": 1
+        },
+        "E": {
+          "time": 7090,
+          "tries": 1
+        },
+        "F": {
+          "time": 4083,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "ISRU: raise RKN(404) (Kudyarov, Kurzin, Batanov)",
+      "university": "ISRU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2245,
+          "tries": 2
+        },
+        "E": {
+          "time": 8092,
+          "tries": 4
+        },
+        "F": {
+          "time": 4243,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Moscow SU: kinders (Pshenichny, Klochkov, Khakamov)",
+      "university": "Moscow SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2371,
+          "tries": 1
+        },
+        "E": {
+          "time": 9776,
+          "tries": 4
+        },
+        "F": {
+          "time": 3872,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "TajNU: Saxto (Abdukodirov, Ghulomzoda, Afroimov)",
+      "university": "TajNU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1701,
+          "tries": 1
+        },
+        "F": {
+          "time": 5053,
+          "tries": 2
+        },
+        "J": {
+          "time": 12350,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Moscow Tech U MIREA: There is an idea, but there are no proofs (Skaev, Khovanskiy, Stoyanovski)",
+      "university": "Moscow Tech U MIREA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4791,
+          "tries": 3
+        },
+        "E": {
+          "time": 6309,
+          "tries": 2
+        },
+        "F": {
+          "time": 3406,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "Ulyanovsk STU: F (Borovkov, Karamushko, Salin)",
+      "university": "Ulyanovsk STU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1207,
+          "tries": 3
+        },
+        "E": {
+          "time": 9242,
+          "tries": 4
+        },
+        "F": {
+          "time": 3457,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Perm HSE: Solve C and go home (Talan, Kudlay, Chernov)",
+      "university": "Perm HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5152,
+          "tries": 1
+        },
+        "E": {
+          "time": 9643,
+          "tries": 4
+        },
+        "F": {
+          "time": 2812,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "YarSU: 14 klava_myshka_monitor_vot_i_vishel_bag_v_prostor (Atroshenko, Buchin, Polozkov)",
+      "university": "YarSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5224,
+          "tries": 1
+        },
+        "F": {
+          "time": 1785,
+          "tries": 1
+        },
+        "J": {
+          "time": 14163,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "AITU: Algabasar (Tolegen, Aitkazy, Ubaidullauly)",
+      "university": "AITU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3348,
+          "tries": 1
+        },
+        "F": {
+          "time": 5254,
+          "tries": 1
+        },
+        "J": {
+          "time": 11549,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "ASU: Adyghe SU A (Verdenko, Kuznetsov, Nashchenko)",
+      "university": "ASU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4553,
+          "tries": 1
+        },
+        "E": {
+          "time": 13113,
+          "tries": 5
+        },
+        "F": {
+          "time": 2388,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Ufa UST: matur kyzlar (Latypova, Yagudina, Yangirova)",
+      "university": "Ufa UST",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7115,
+          "tries": 1
+        },
+        "F": {
+          "time": 2982,
+          "tries": 1
+        },
+        "J": {
+          "time": 13897,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "BNTU: Pogchampions (Bogdan, Zhauniak, Ptukha)",
+      "university": "BNTU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 13731,
+          "tries": 2
+        },
+        "E": {
+          "time": 6972,
+          "tries": 3
+        },
+        "F": {
+          "time": 3091,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Yerevan SU: Binary Bullets (Grigoryan, Badishyan, Badalyan)",
+      "university": "Yerevan SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7438,
+          "tries": 2
+        },
+        "E": {
+          "time": 14385,
+          "tries": 1
+        },
+        "F": {
+          "time": 4467,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Novosibirsk SU: 2 Romashki (Aleshkov, Arbuzov, Shalunov)",
+      "university": "Novosibirsk SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6157,
+          "tries": 1
+        },
+        "F": {
+          "time": 5085,
+          "tries": 3
+        },
+        "J": {
+          "time": 16187,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "IITU: 3 Bug Busters (Rakymberdi, Shakiyev, Manashov)",
+      "university": "IITU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2475,
+          "tries": 1
+        },
+        "E": {
+          "time": 16852,
+          "tries": 3
+        },
+        "F": {
+          "time": 8286,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "UCA: Tourists (Ulanbek uulu, Sidikov, Alikbaev)",
+      "university": "UCA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 9372,
+          "tries": 3
+        },
+        "E": {
+          "time": 8775,
+          "tries": 7
+        },
+        "F": {
+          "time": 2418,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "SFedU: IMMCS E (Chizhov, Trukhlov, Batalshchikov)",
+      "university": "SFedU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3822,
+          "tries": 1
+        },
+        "E": {
+          "time": 12171,
+          "tries": 8
+        },
+        "F": {
+          "time": 6825,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "RAU: 1 (Khachatryan, Khroyan, Hayrapetyan)",
+      "university": "RAU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2166,
+          "tries": 1
+        },
+        "D": {
+          "time": 13923,
+          "tries": 1
+        },
+        "E": {
+          "time": 10032,
+          "tries": 6
+        }
+      }
+    },
+    {
+      "name": "AUCA: Cucumbers (Baigulov, Turatbekov, Ibraimov)",
+      "university": "AUCA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2802,
+          "tries": 1
+        },
+        "E": {
+          "time": 14671,
+          "tries": 4
+        },
+        "F": {
+          "time": 9074,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "TUIT: Algo Experts (Qayumjonov, Qarshiyev, Jalolov)",
+      "university": "TUIT",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7818,
+          "tries": 4
+        },
+        "E": {
+          "time": 9767,
+          "tries": 4
+        },
+        "F": {
+          "time": 6103,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "AUCA: ZXC (Alimov, Beliaev, Anarkulov)",
+      "university": "AUCA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5820,
+          "tries": 1
+        },
+        "E": {
+          "time": 15841,
+          "tries": 8
+        },
+        "F": {
+          "time": 3583,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "RSATU: 1 (Rastorguev, Ananyev, Nikanov)",
+      "university": "RSATU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1366,
+          "tries": 1
+        },
+        "E": {
+          "time": 8310,
+          "tries": 5
+        },
+        "F": {
+          "time": 13695,
+          "tries": 6
+        }
+      }
+    },
+    {
+      "name": "BukhSU: Starborn (Akramov, Rakhimov, Muxtorov)",
+      "university": "BukhSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7386,
+          "tries": 1
+        },
+        "E": {
+          "time": 11765,
+          "tries": 5
+        },
+        "F": {
+          "time": 8698,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "Nazarbayev U: Napoleon (Zharylgamyssov, Yurikov, Makhazhanov)",
+      "university": "Nazarbayev U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4707,
+          "tries": 3
+        },
+        "E": {
+          "time": 11040,
+          "tries": 3
+        },
+        "F": {
+          "time": 10786,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "Far Eastern FU: BosonHiggsPrice (Skazkin, Gorbatenko, Lugovoy)",
+      "university": "Far Eastern FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 13626,
+          "tries": 2
+        },
+        "E": {
+          "time": 10169,
+          "tries": 1
+        },
+        "F": {
+          "time": 11283,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "VoronezhSU: L (Skarga, Ulezko, Rogachev)",
+      "university": "VoronezhSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2550,
+          "tries": 1
+        },
+        "F": {
+          "time": 10281,
+          "tries": 5
+        },
+        "J": {
+          "time": 17052,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "NewUU: *B-Force; (Rustamov, Muhibbillayev, Musurmonov)",
+      "university": "NewUU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6035,
+          "tries": 1
+        },
+        "E": {
+          "time": 13145,
+          "tries": 3
+        },
+        "F": {
+          "time": 11417,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "SPb ITMO: R&W++ (Petrunko, Gnezdilov, Varakin)",
+      "university": "SPb ITMO",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2476,
+          "tries": 2
+        },
+        "E": {
+          "time": 15236,
+          "tries": 8
+        },
+        "F": {
+          "time": 8196,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "Samara University: R (Yashin, Nedugov, Panfilov)",
+      "university": "Samara University",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1703,
+          "tries": 1
+        },
+        "E": {
+          "time": 15073,
+          "tries": 4
+        },
+        "F": {
+          "time": 14248,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "Novosibirsk SU: 4 Chomik (Pereverzev, Stolyarov, Martynov)",
+      "university": "Novosibirsk SU",
+      "logo": "",
+      "submissions": {
+        "B": {
+          "time": 10313,
+          "tries": 4
+        },
+        "E": {
+          "time": 10754,
+          "tries": 5
+        },
+        "F": {
+          "time": 9026,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "AITU: baursak (Rakhimbayev, Shakaryan, Dochshanov)",
+      "university": "AITU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4415,
+          "tries": 1
+        },
+        "E": {
+          "time": 12185,
+          "tries": 2
+        },
+        "F": {
+          "time": 15381,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "Irkutsk U: Yellow pencil (Shilov, Purtov, Kadach)",
+      "university": "Irkutsk U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3899,
+          "tries": 1
+        },
+        "E": {
+          "time": 15161,
+          "tries": 17
+        },
+        "F": {
+          "time": 4912,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "MEPhI: ASMR (Stepashkina, Vinogradov, Bogomolov)",
+      "university": "MEPhI",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7946,
+          "tries": 2
+        },
+        "E": {
+          "time": 6932,
+          "tries": 5
+        },
+        "F": {
+          "time": 12715,
+          "tries": 9
+        }
+      }
+    },
+    {
+      "name": "KRSU: ! (Bakirov, Ulukbekov, Garov)",
+      "university": "KRSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5326,
+          "tries": 3
+        },
+        "E": {
+          "time": 13666,
+          "tries": 3
+        },
+        "F": {
+          "time": 15950,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "OrelSU: 2 (Gordeev, Shelyganov, Tugarev)",
+      "university": "OrelSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4174,
+          "tries": 1
+        },
+        "E": {
+          "time": 11609,
+          "tries": 3
+        },
+        "F": {
+          "time": 17990,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "Petrozavodsk SU: Randomnoe viberi (Sobianina, Reikenen, Roitburd)",
+      "university": "Petrozavodsk SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4582,
+          "tries": 3
+        },
+        "D": {
+          "time": 16266,
+          "tries": 3
+        },
+        "E": {
+          "time": 11057,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "South Ural SU: Bedolagi (Sazikov, Baiutov, Liaskovskii)",
+      "university": "South Ural SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7890,
+          "tries": 4
+        },
+        "D": {
+          "time": 6337,
+          "tries": 1
+        },
+        "E": {
+          "time": 16435,
+          "tries": 11
+        }
+      }
+    },
+    {
+      "name": "Kyrgyz STU: 1 (Asanaliev, Amadaliev, Ten)",
+      "university": "Kyrgyz STU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3777,
+          "tries": 3
+        },
+        "E": {
+          "time": 6921,
+          "tries": 10
+        },
+        "J": {
+          "time": 17535,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "Perm HSE: time's forge (Kosvincev, Kosvincev, Kozlov)",
+      "university": "Perm HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 17364,
+          "tries": 1
+        },
+        "F": {
+          "time": 9780,
+          "tries": 1
+        },
+        "J": {
+          "time": 17966,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "SFU: [LE]OUR ELEPHANT (Poznakhirko, Balakhonov, Volkov)",
+      "university": "SFU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 8974,
+          "tries": 3
+        },
+        "E": {
+          "time": 16072,
+          "tries": 9
+        },
+        "F": {
+          "time": 10995,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Kant FU: We're_clowns (Zangirov, Sheshtanov, Suvorov)",
+      "university": "Kant FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4549,
+          "tries": 2
+        },
+        "E": {
+          "time": 17061,
+          "tries": 6
+        },
+        "F": {
+          "time": 17183,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "BSUIR: 7 DMR (Lenchevsky, Kozyrev, Pantus)",
+      "university": "BSUIR",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 15421,
+          "tries": 9
+        },
+        "B": {
+          "time": 11131,
+          "tries": 6
+        },
+        "F": {
+          "time": 7725,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "VoronezhSU: J (Ashcheulov, Shulzhenko, Lygina)",
+      "university": "VoronezhSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 14994,
+          "tries": 6
+        },
+        "E": {
+          "time": 12254,
+          "tries": 1
+        },
+        "F": {
+          "time": 13532,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "BNTU: 2 Enigma (Lemiashevich, Khaniak, Khala)",
+      "university": "BNTU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 12365,
+          "tries": 5
+        },
+        "E": {
+          "time": 17677,
+          "tries": 5
+        },
+        "F": {
+          "time": 10297,
+          "tries": 9
+        }
+      }
+    },
+    {
+      "name": "Tyumen SU: AA (Berukhov, Arteev, Lobova)",
+      "university": "Tyumen SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 11116,
+          "tries": 5
+        },
+        "E": {
+          "time": 9292,
+          "tries": 7
+        },
+        "J": {
+          "time": 17852,
+          "tries": 10
+        }
+      }
+    },
+    {
+      "name": "Chelyabinsk SU: Semen Chebykin (Levin, Saar, Korchagin)",
+      "university": "Chelyabinsk SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3184,
+          "tries": 1
+        },
+        "F": {
+          "time": 2177,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Tomsk SU: Physics (Gorbunov, Axyonov, Evseev)",
+      "university": "Tomsk SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1567,
+          "tries": 1
+        },
+        "E": {
+          "time": 5407,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Atyrau SU: I1 (Tilegen, Satbay, Adilkhan)",
+      "university": "Atyrau SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2496,
+          "tries": 2
+        },
+        "F": {
+          "time": 3637,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Kazakh-British TU: Brain limit (Popov, Olzhabay, Amankulov)",
+      "university": "Kazakh-British TU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4749,
+          "tries": 1
+        },
+        "F": {
+          "time": 2459,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Orenburg SU: krips (Popov, Eroshenko, Yakunin)",
+      "university": "Orenburg SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3373,
+          "tries": 1
+        },
+        "F": {
+          "time": 4452,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "SFU: goydochka_2009 (Nazarov, Aleksandrov, Falejchik)",
+      "university": "SFU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 1587,
+          "tries": 1
+        },
+        "F": {
+          "time": 7851,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Far Eastern FU: PSEVDOsaki (Denisenko, Panteleev, Piskunov)",
+      "university": "Far Eastern FU",
+      "logo": "",
+      "submissions": {
+        "E": {
+          "time": 4155,
+          "tries": 3
+        },
+        "F": {
+          "time": 5310,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "SPbETU: Legion team (Zlobin, Galkin, Skobelev)",
+      "university": "SPbETU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3043,
+          "tries": 1
+        },
+        "F": {
+          "time": 7959,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "CEPU: Rabotyagi (Kustareva, Chaush, Romashkan)",
+      "university": "CEPU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5201,
+          "tries": 1
+        },
+        "F": {
+          "time": 6759,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Perm NRPU: comrades b (Kozhevnikov, Bazhenov, Gordeev)",
+      "university": "Perm NRPU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4400,
+          "tries": 1
+        },
+        "F": {
+          "time": 10232,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "RSATU: 3 (Skvortsov, Zimarev, Musinsky)",
+      "university": "RSATU",
+      "logo": "",
+      "submissions": {
+        "E": {
+          "time": 8443,
+          "tries": 1
+        },
+        "F": {
+          "time": 5218,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "NEFU: Fire Guys (Bushtaev, Vlasov, Ivanov)",
+      "university": "NEFU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 10060,
+          "tries": 2
+        },
+        "F": {
+          "time": 4838,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Perm HSE: Required field (Kashin, Pochebut, Sokhrannykh)",
+      "university": "Perm HSE",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5984,
+          "tries": 1
+        },
+        "F": {
+          "time": 9759,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "BSUIR: 22 long_float (Areshchanka, Lukanski, Shymko)",
+      "university": "BSUIR",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2901,
+          "tries": 1
+        },
+        "F": {
+          "time": 14731,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Tbilisi FreeUni: 12 (Bendianishvili, Modebadze, Kutchava)",
+      "university": "Tbilisi FreeUni",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2057,
+          "tries": 1
+        },
+        "E": {
+          "time": 17470,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Caucasus U: 1 (Kardava, Chrelashvili, Zarnadze)",
+      "university": "Caucasus U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3167,
+          "tries": 1
+        },
+        "F": {
+          "time": 16814,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Nizhny Novgorod HSE: HuYaN SloNikY (Antonov, Kandelov, Shustrov)",
+      "university": "Nizhny Novgorod HSE",
+      "logo": "",
+      "submissions": {
+        "E": {
+          "time": 5735,
+          "tries": 3
+        },
+        "F": {
+          "time": 10321,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "Tbilisi FreeUni: 5 (Losaberidze, Dandurishvili, Beria)",
+      "university": "Tbilisi FreeUni",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2498,
+          "tries": 1
+        },
+        "E": {
+          "time": 14290,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "ADA: 12 (Tayibov, Tariverdiyev, Jafarli)",
+      "university": "ADA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7893,
+          "tries": 2
+        },
+        "F": {
+          "time": 12655,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Westminster Internat: Unfazed 2.0 (Sotimkulov, Madvaliev, Khamidov)",
+      "university": "Westminster Internat",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 9692,
+          "tries": 3
+        },
+        "F": {
+          "time": 10326,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "SPbETU: vertalingen (Borisov, Lamashovsky, Karpunin)",
+      "university": "SPbETU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4833,
+          "tries": 1
+        },
+        "E": {
+          "time": 16983,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Novosibirsk STU: 2 (Blinov, Vlasov, Lebed)",
+      "university": "Novosibirsk STU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 8427,
+          "tries": 2
+        },
+        "F": {
+          "time": 11240,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "RAU: 5 (Tamamyan, Khachatryan, Voskanyan)",
+      "university": "RAU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4039,
+          "tries": 3
+        },
+        "F": {
+          "time": 16496,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Novosibirsk SU: 10 Olympic Googling (Polukhin, Avtsinova, Khaskov)",
+      "university": "Novosibirsk SU",
+      "logo": "",
+      "submissions": {
+        "E": {
+          "time": 16375,
+          "tries": 3
+        },
+        "F": {
+          "time": 4253,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Grodno SU: 2 (Sinkevich, Tsybin, Pialeika)",
+      "university": "Grodno SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 12167,
+          "tries": 4
+        },
+        "F": {
+          "time": 7691,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Novosibirsk STU: 1 (Rossomakhin, Khriashchev, Funk)",
+      "university": "Novosibirsk STU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 13687,
+          "tries": 1
+        },
+        "F": {
+          "time": 7629,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "Irkutsk U: Amigos (Buchnev, Vyatkin, Kodincev)",
+      "university": "Irkutsk U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 15998,
+          "tries": 7
+        },
+        "F": {
+          "time": 2533,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Moscow Polytech U: Polykek (Surov, Tepaykin, Tlyashok)",
+      "university": "Moscow Polytech U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4586,
+          "tries": 2
+        },
+        "F": {
+          "time": 15366,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "KazNU: KazNu1 (Toxanbayev, Kazbayev, Hamzin)",
+      "university": "KazNU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5165,
+          "tries": 2
+        },
+        "F": {
+          "time": 13334,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "UFAZ: 1 (Rzayev, Kuznetsov, Shamsudinov)",
+      "university": "UFAZ",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6373,
+          "tries": 2
+        },
+        "E": {
+          "time": 12640,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "SDU: Late submission (Kenes, Sakenuly, Kulmukhambetov)",
+      "university": "SDU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 11046,
+          "tries": 6
+        },
+        "E": {
+          "time": 8114,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "Magnitogorsk STU: Steel elephants (Masalskaya, Masalsky, Filippov)",
+      "university": "Magnitogorsk STU",
+      "logo": "",
+      "submissions": {
+        "E": {
+          "time": 17016,
+          "tries": 8
+        },
+        "F": {
+          "time": 3720,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "IIAU: Katen Kyokotsu Karamatsu Shinju (Habibov, Juraboyev, Muhsinov)",
+      "university": "IIAU",
+      "logo": "",
+      "submissions": {
+        "E": {
+          "time": 15991,
+          "tries": 13
+        },
+        "F": {
+          "time": 4668,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "RusTjkSlav: RTSU (Usmonzoda, Orash, Mahmudzoda)",
+      "university": "RusTjkSlav",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 16703,
+          "tries": 1
+        },
+        "E": {
+          "time": 12231,
+          "tries": 10
+        }
+      }
+    },
+    {
+      "name": "AUA: 1 (Nazarians, Berujanyan, Melkonyan)",
+      "university": "AUA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 15184,
+          "tries": 4
+        },
+        "E": {
+          "time": 15898,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "Tbilisi FreeUni: 7 (Bechvaia, Losaberidze, Liklikadze)",
+      "university": "Tbilisi FreeUni",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 2118,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "KazNTU: 3 brainFAQ (Titov, Aidarkhan, Lukianov)",
+      "university": "KazNTU",
+      "logo": "",
+      "submissions": {
+        "F": {
+          "time": 2979,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "KazNTU: 2 Conmate (Satybaldin, Turganbaev, Gladkov)",
+      "university": "KazNTU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3038,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "VladimirSU: 2 Road to master (Bogdan, Illarionov, Parakhin)",
+      "university": "VladimirSU",
+      "logo": "",
+      "submissions": {
+        "F": {
+          "time": 3063,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "UCA: uca.spam (Nasirov, Minsizbayeva, Zhunusov)",
+      "university": "UCA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3065,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "BrSU: 1 RC&S (Kren, Lapytska, Kashenya)",
+      "university": "BrSU",
+      "logo": "",
+      "submissions": {
+        "F": {
+          "time": 4152,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "TUITNB: Tomorrow's problem (Avezmurodov, Uteshova, Dusanov)",
+      "university": "TUITNB",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 3515,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "BHOS: 2 (Akhundov, Orujov, Mehtiyev)",
+      "university": "BHOS",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 4204,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Kutaisi ATSU: 3 (Arkania, Kukhianidze, Namicheishvili)",
+      "university": "Kutaisi ATSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 5789,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Abai University: 3 (Yesbergenov, Medelhan, Kenkhan)",
+      "university": "Abai University",
+      "logo": "",
+      "submissions": {
+        "F": {
+          "time": 4759,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "ASOIU: 3 (Murshudzada, Khaligov, Qurbanov)",
+      "university": "ASOIU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6183,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "KIU: Slice & Volley (Oniani, Kvatashidze, Sakhelashvili)",
+      "university": "KIU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6410,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Gomel SU: 2 (Bortenko, Antonovich, Talan)",
+      "university": "Gomel SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 6261,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "ADA: 6 (Aghazada, Aghayev, Tagizade)",
+      "university": "ADA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7264,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Narxoz U: NMRV (Plaxin, Larkin, Nagumanov)",
+      "university": "Narxoz U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7439,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Westminster Internat: WIUT Math (Raxmatov, Maksudov, Ravshanov)",
+      "university": "Westminster Internat",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 7825,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "NAA: 2 (Eliyev, Qasimov, Asadov)",
+      "university": "NAA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 9245,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "TSI AUCA: WE_WANT_TO_ALMATY(plz) (Bapanov, Yasenov, Khan)",
+      "university": "TSI AUCA",
+      "logo": "",
+      "submissions": {
+        "F": {
+          "time": 8523,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Pacific NU: Kowalsky (Krylov, Merkulov, Gladkikh)",
+      "university": "Pacific NU",
+      "logo": "",
+      "submissions": {
+        "F": {
+          "time": 10338,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "SibSUTIS: FOUR (Sotnich, Weibert, Savchenko)",
+      "university": "SibSUTIS",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 9432,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "KIU: ZAZA (Gvetadze, Purtskhvanidze, Kebuladze)",
+      "university": "KIU",
+      "logo": "",
+      "submissions": {
+        "F": {
+          "time": 7123,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "UCA: Fortuna (Diushekeev, Akatov, Azizbekov)",
+      "university": "UCA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 12024,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Karabakh U: 1 (Mammedov, Xanquliyev, Hasanov)",
+      "university": "Karabakh U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 12682,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "Kazakh-British TU: CUDA out of memory (Dalabay, Ayupov, Bakhtiyar)",
+      "university": "Kazakh-British TU",
+      "logo": "",
+      "submissions": {
+        "F": {
+          "time": 8508,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "Zhubanov U: ZhubanovTeam (Kendebai, Darmenov, Zhambulov)",
+      "university": "Zhubanov U",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 12088,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "Karaganda SU: sniki (Alisher, Ochilov, Sagaitova)",
+      "university": "Karaganda SU",
+      "logo": "",
+      "submissions": {
+        "F": {
+          "time": 13507,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "IITU: 4 Competitive Sports Programming Coders (Abibulla, Akhmet, Abiev)",
+      "university": "IITU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 10051,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "KSU: shoqan (Kabdolla, Taszhanov, Nurzhanuly)",
+      "university": "KSU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 13826,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Buryat SU: 3 Crossmind (Sharypov, Zaguzin, Tsyrenov)",
+      "university": "Buryat SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 13728,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "Perm SU: babijoni (Kolupaev, Rukhliadev, Vinokurov)",
+      "university": "Perm SU",
+      "logo": "",
+      "submissions": {
+        "E": {
+          "time": 11390,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "KRSU: QTPYs (Valitov, Gimaldinov, Ten)",
+      "university": "KRSU",
+      "logo": "",
+      "submissions": {
+        "F": {
+          "time": 16199,
+          "tries": 1
+        }
+      }
+    },
+    {
+      "name": "SFU: LAST DANCE [W] #LE (Tarasov, Ursta, Krys)",
+      "university": "SFU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 9028,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "APA: 3 (Ismayilov, Kuhi, Khalilov)",
+      "university": "APA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 16260,
+          "tries": 2
+        }
+      }
+    },
+    {
+      "name": "Komsomolsk-na-Amure SU: DeCode (Usynin, Mironov, Malakhovets)",
+      "university": "Komsomolsk-na-Amure SU",
+      "logo": "",
+      "submissions": {
+        "F": {
+          "time": 13138,
+          "tries": 5
+        }
+      }
+    },
+    {
+      "name": "Buryat SU: 1 SYAS (Oshorov, Khanhaev, Beloborodov)",
+      "university": "Buryat SU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 15771,
+          "tries": 3
+        }
+      }
+    },
+    {
+      "name": "KRSU: Sveta Shumovaya (Kariev, Mukhamedaliev, Kazatov)",
+      "university": "KRSU",
+      "logo": "",
+      "submissions": {
+        "F": {
+          "time": 17902,
+          "tries": 4
+        }
+      }
+    },
+    {
+      "name": "Kant FU: 2 gastro_tourists (Volkova, Aliabev, Demidov)",
+      "university": "Kant FU",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 15961,
+          "tries": 7
+        }
+      }
+    },
+    {
+      "name": "AUA: 2 (Barbashahinyan, Martirosyan, Dolukhanyan)",
+      "university": "AUA",
+      "logo": "",
+      "submissions": {
+        "A": {
+          "time": 17971,
+          "tries": 9
+        }
+      }
+    },
+    {
+      "name": "ADA: 7 (Aghayev, Tahmazov, Huseynzada)",
+      "university": "ADA",
+      "logo": "",
+      "submissions": {
+        "E": {
+          "time": 16884,
+          "tries": 11
+        }
+      }
+    },
+    {
+      "name": "ABU: SP (Kyzyrbekuly, Saripbaev, Ramazan)",
+      "university": "ABU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "AIPET: Energo University 2 (Pak, Tarabykin, Tarabykin)",
+      "university": "AIPET",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "ASPU: SABAH 1 (Khalilli, Adgozalov, Hasanzade)",
+      "university": "ASPU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "AzSUE-UNEC: 1 (Novruzlu, Jamalzade, Haziyev)",
+      "university": "AzSUE-UNEC",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "AzTU: 6 (Mammadli, Alakbarli, Alakbarli)",
+      "university": "AzTU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "AzUAC: 1 (Quliyev, Kazimli, Ezimzade)",
+      "university": "AzUAC",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Azerbaijan U: 1 (Rzayev, Mikayilov, Sadigzade)",
+      "university": "Azerbaijan U",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "BEU: 1 (Sayilov, Melikov, Hasanov)",
+      "university": "BEU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "BEU: 5 (Rahmatov, Rzazade, Aliyev)",
+      "university": "BEU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Baku SU: 7 (Ramazanov, Verdiyev, Bayraml\u0131)",
+      "university": "Baku SU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "BrSTU: kotiki (Nichinger, Palto, Kachalovskiy)",
+      "university": "BrSTU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Caucasus U: 3 (Gochashvili, Kelekhsaevi, Tsitaishvili)",
+      "university": "Caucasus U",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Dulaty University: Pixel (Sultanbaev, Balpan, Tolkynbaev)",
+      "university": "Dulaty University",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "IBSU: 3 (Soselia, Kolotashvili, Ioramashvili)",
+      "university": "IBSU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "IITU: 10 Dostyk (Targyn, Abdraman, Orazbaev)",
+      "university": "IITU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "KRSU: Timely (Vasilenko, Gabdullin, Talantbekov)",
+      "university": "KRSU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "KRU: Minecrafters404 (Kostyrev, Kan, Kobzhanov)",
+      "university": "KRU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "KRU: Overthinkers (Dzhumashev, Amelkin, Gromov)",
+      "university": "KRU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Kamchatka SU: penguins (Tatarinov, Stuk, Sagaryarov)",
+      "university": "Kamchatka SU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "KazNU: Farabi_coding (Alpamys, Zhaksylyk, Amankulov)",
+      "university": "KazNU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Kazakh SWTTU: CodeQueens (Abdirasil, Naraly, Koshkarbek)",
+      "university": "Kazakh SWTTU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Khazar U: 1 (Qurbanov, Karimov, Aliyev)",
+      "university": "Khazar U",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Korkyt Ata U: HackTeam (Syrazhadin, Zhadiger, Kenzhebaev)",
+      "university": "Korkyt Ata U",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Kyrgyz STU: 4 (Begnusupov, Urumbekov, Satybaldiev)",
+      "university": "Kyrgyz STU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Narxoz U: Clowns (Mikhalskii, Kurlykov, Abdrakhmanova)",
+      "university": "Narxoz U",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Narxoz U: Pacman (Kassen, Shakualy, Sapashev)",
+      "university": "Narxoz U",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "NewUU: #sus (Xamidov, Yo'ldashev, Baxtiyorov)",
+      "university": "NewUU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Novosibirsk SU: 8 Gussy (Mashkin, Kutsenko, Kataeva)",
+      "university": "Novosibirsk SU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Pavlodar SU: Exception (Kabzhekenov, Akhtanov, Anuarbek)",
+      "university": "Pavlodar SU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "SFU: Brevno_Rearm_Brevno (Evsyukov, Dulisov, Arkhireev)",
+      "university": "SFU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "SPb SUT: pip install cpp.SUT (Rasskazchikov, Sumenkov, Timoshkov)",
+      "university": "SPb SUT",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "SSTU: 6 (Eremenko, Isupov, Nemtsova)",
+      "university": "SSTU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "SibSUTIS: THREE (Andreev, Katokhin, Beznosyuk)",
+      "university": "SibSUTIS",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "Tomsk PU: Middles sons (Dzhangildin, Suharev, Goriachev)",
+      "university": "Tomsk PU",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "UFAZ: 10 (Aghayarli, Aliyev, Fataliyev)",
+      "university": "UFAZ",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "UFAZ: 11 (Seyidli, Mammadov, Ganizada)",
+      "university": "UFAZ",
+      "logo": "",
+      "submissions": {}
+    },
+    {
+      "name": "WCU: 1 (Mammadov, Jafarov, Agayev)",
+      "university": "WCU",
+      "logo": "",
+      "submissions": {}
+    }
+  ]
+}
