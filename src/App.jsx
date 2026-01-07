@@ -1,16 +1,12 @@
 import { useEffect, useState, useRef } from "react";
 import "./App.css";
-import contestData from "./assets/nac2024.json";
 
-// Convert seconds → HH:MM:SS
+// Convert seconds → minutes
 function formatTime(sec) {
-  // const h = String(Math.floor(sec / 3600)).padStart(2, "0");
-  // const m = String(Math.floor((sec % 3600) / 60)).padStart(2, "0");
-  // const s = String(sec % 60).padStart(2, "0");
   return `${sec / 60}`;
 }
 
-// Convert seconds → HH:MM:SS for header
+// Convert seconds → HH:MM for header
 function formatTimeLeft(sec) {
   const h = String(Math.floor(sec / 3600)).padStart(2, "0");
   const m = String(Math.floor((sec % 3600) / 60)).padStart(2, "0");
@@ -18,20 +14,38 @@ function formatTimeLeft(sec) {
 }
 
 export default function App() {
-  const [currentTime, setCurrentTime] = useState(0);  // contest clock in seconds
-  const [isRunning, setIsRunning] = useState(false);
-  const intervalRef = useRef(null);
+  const [contestData, setContestData] = useState(null);
+  const [error, setError] = useState(null);
 
+  const [currentTime, setCurrentTime] = useState(0);
+  const [isRunning, setIsRunning] = useState(false);
+
+  const intervalRef = useRef(null);
   const startTimestampRef = useRef(null);
   const startTimeValueRef = useRef(0);
-
-
   const sortedSubsRef = useRef([]);
 
-  // ——————————————————————————————————
-  // Preprocess submissions once
-  // ——————————————————————————————————
+  // --------------------------------------------------
+  // Load contest data based on URL
+  // --------------------------------------------------
   useEffect(() => {
+    const contestId = window.location.pathname.replace("/", "") || "nac2024";
+
+    import(`./assets/${contestId}.json`)
+      .then((mod) => {
+        setContestData(mod.default);
+      })
+      .catch(() => {
+        setError(`Contest "${contestId}" not found`);
+      });
+  }, []);
+
+  // --------------------------------------------------
+  // Preprocess submissions once contest is loaded
+  // --------------------------------------------------
+  useEffect(() => {
+    if (!contestData) return;
+
     const allSubs = [];
     for (const team of contestData.teams) {
       for (const p of contestData.problems) {
@@ -50,7 +64,7 @@ export default function App() {
 
     allSubs.sort((a, b) => a.time - b.time);
     sortedSubsRef.current = allSubs;
-  }, []);
+  }, [contestData]);
 
   // ——————————————————————————————————
   // Warn on tab close if replay is active
