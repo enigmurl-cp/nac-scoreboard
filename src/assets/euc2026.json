@@ -1,0 +1,1306 @@
+{
+  "name": "EUC 2026",
+  "duration": 18000,
+  "freeze": 14400,
+  "problems": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K"
+  ],
+  "teams": [
+    {
+      "name": "Huawei Team",
+      "university": "Huawei Team",
+      "submissions": {
+        "A": {
+          "time": 17280,
+          "tries": 14,
+          "first": false
+        },
+        "B": {
+          "time": 780,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 4620,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 2520,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 9480,
+          "tries": 4,
+          "first": false
+        },
+        "J": {
+          "time": 3780,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Delft University of Technology",
+      "university": "Delft University of Technology",
+      "submissions": {
+        "A": {
+          "time": 11700,
+          "tries": 2,
+          "first": true
+        },
+        "B": {
+          "time": 540,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 4560,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 5280,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 8040,
+          "tries": 2,
+          "first": true
+        }
+      }
+    },
+    {
+      "name": "Alexandru Ioan Cuza University of Iași",
+      "university": "Alexandru Ioan Cuza University of Iași",
+      "submissions": {
+        "B": {
+          "time": 900,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 4380,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 13260,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 2040,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 12900,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "The Open University of Israel",
+      "university": "The Open University of Israel",
+      "submissions": {
+        "B": {
+          "time": 1020,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 6060,
+          "tries": 2,
+          "first": false
+        },
+        "D": {
+          "time": 12180,
+          "tries": 3,
+          "first": true
+        },
+        "E": {
+          "time": 7320,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 11040,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Universiteit Utrecht",
+      "university": "Universiteit Utrecht",
+      "submissions": {
+        "B": {
+          "time": 2460,
+          "tries": 3,
+          "first": false
+        },
+        "C": {
+          "time": 4140,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 8640,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 10920,
+          "tries": 2,
+          "first": false
+        },
+        "K": {
+          "time": 10680,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Hasso Plattner Institute",
+      "university": "Hasso Plattner Institute",
+      "submissions": {
+        "B": {
+          "time": 660,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 12960,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 5820,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 11700,
+          "tries": 2,
+          "first": false
+        },
+        "K": {
+          "time": 8760,
+          "tries": 1,
+          "first": true
+        }
+      }
+    },
+    {
+      "name": "ETH Zürich",
+      "university": "ETH Zürich",
+      "submissions": {
+        "B": {
+          "time": 720,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 8160,
+          "tries": 5,
+          "first": false
+        },
+        "E": {
+          "time": 1560,
+          "tries": 1,
+          "first": true
+        },
+        "J": {
+          "time": 15000,
+          "tries": 4,
+          "first": false
+        },
+        "K": {
+          "time": 10920,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Warsaw",
+      "university": "University of Warsaw",
+      "submissions": {
+        "B": {
+          "time": 2220,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 2940,
+          "tries": 9,
+          "first": false
+        },
+        "E": {
+          "time": 6840,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 10500,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 10020,
+          "tries": 3,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Belgrade",
+      "university": "University of Belgrade",
+      "submissions": {
+        "B": {
+          "time": 1140,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 6420,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 7620,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 10920,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 17520,
+          "tries": 5,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Cambridge",
+      "university": "University of Cambridge",
+      "submissions": {
+        "B": {
+          "time": 780,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 6720,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 6600,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 13740,
+          "tries": 5,
+          "first": false
+        },
+        "K": {
+          "time": 16140,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Middle East Technical University",
+      "university": "Middle East Technical University",
+      "submissions": {
+        "B": {
+          "time": 1500,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 12900,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 9180,
+          "tries": 1,
+          "first": false
+        },
+        "I": {
+          "time": 17940,
+          "tries": 7,
+          "first": false
+        },
+        "J": {
+          "time": 17760,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Charles University",
+      "university": "Charles University",
+      "submissions": {
+        "B": {
+          "time": 1380,
+          "tries": 3,
+          "first": false
+        },
+        "C": {
+          "time": 7020,
+          "tries": 4,
+          "first": false
+        },
+        "E": {
+          "time": 12480,
+          "tries": 4,
+          "first": false
+        },
+        "J": {
+          "time": 13860,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 17580,
+          "tries": 8,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Karlsruhe Institute of Technology",
+      "university": "Karlsruhe Institute of Technology",
+      "submissions": {
+        "B": {
+          "time": 420,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 4800,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 1800,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 11160,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Tel Aviv University",
+      "university": "Tel Aviv University",
+      "submissions": {
+        "B": {
+          "time": 960,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 4980,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 6660,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 9480,
+          "tries": 3,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Kharkiv National University of Radio Electronics",
+      "university": "Kharkiv National University of Radio Electronics",
+      "submissions": {
+        "B": {
+          "time": 1620,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 5580,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 8520,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 9720,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Vienna",
+      "university": "University of Vienna",
+      "submissions": {
+        "B": {
+          "time": 720,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 2760,
+          "tries": 2,
+          "first": true
+        },
+        "E": {
+          "time": 15240,
+          "tries": 3,
+          "first": false
+        },
+        "K": {
+          "time": 10500,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Wroclaw",
+      "university": "University of Wroclaw",
+      "submissions": {
+        "B": {
+          "time": 420,
+          "tries": 1,
+          "first": true
+        },
+        "C": {
+          "time": 8160,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 8400,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 15480,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Eötvös Loránd University",
+      "university": "Eötvös Loránd University",
+      "submissions": {
+        "B": {
+          "time": 1140,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 10740,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 5280,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 14520,
+          "tries": 3,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Jagiellonian University in Krakow",
+      "university": "Jagiellonian University in Krakow",
+      "submissions": {
+        "B": {
+          "time": 1200,
+          "tries": 4,
+          "first": false
+        },
+        "C": {
+          "time": 3900,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 7500,
+          "tries": 3,
+          "first": false
+        },
+        "J": {
+          "time": 15840,
+          "tries": 3,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Latvia",
+      "university": "University of Latvia",
+      "submissions": {
+        "B": {
+          "time": 840,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 7440,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 5880,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 14700,
+          "tries": 7,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Oxford",
+      "university": "University of Oxford",
+      "submissions": {
+        "B": {
+          "time": 840,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 6060,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 7560,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 16800,
+          "tries": 7,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Zagreb",
+      "university": "University of Zagreb",
+      "submissions": {
+        "B": {
+          "time": 2700,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 7500,
+          "tries": 4,
+          "first": false
+        },
+        "E": {
+          "time": 13080,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 16080,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Universitat Politècnica de Catalunya",
+      "university": "Universitat Politècnica de Catalunya",
+      "submissions": {
+        "B": {
+          "time": 1320,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 9780,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 14940,
+          "tries": 2,
+          "first": false
+        },
+        "K": {
+          "time": 15540,
+          "tries": 4,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Ecole Polytechnique",
+      "university": "Ecole Polytechnique",
+      "submissions": {
+        "B": {
+          "time": 2160,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 16620,
+          "tries": 11,
+          "first": false
+        },
+        "E": {
+          "time": 3240,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 14880,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Aarhus University",
+      "university": "Aarhus University",
+      "submissions": {
+        "B": {
+          "time": 1080,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 5160,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 3960,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Chalmers University of Technology",
+      "university": "Chalmers University of Technology",
+      "submissions": {
+        "B": {
+          "time": 1020,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 3060,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 8820,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Universiteit van Amsterdam",
+      "university": "Universiteit van Amsterdam",
+      "submissions": {
+        "B": {
+          "time": 840,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 7860,
+          "tries": 4,
+          "first": false
+        },
+        "E": {
+          "time": 4680,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Copenhagen",
+      "university": "University of Copenhagen",
+      "submissions": {
+        "B": {
+          "time": 1140,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 4440,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 11640,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Wroclaw University of Technology",
+      "university": "Wroclaw University of Technology",
+      "submissions": {
+        "B": {
+          "time": 1200,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 5520,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 12900,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Aalto University",
+      "university": "Aalto University",
+      "submissions": {
+        "B": {
+          "time": 1080,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 10440,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 8700,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Lviv National University",
+      "university": "Lviv National University",
+      "submissions": {
+        "B": {
+          "time": 2100,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 5880,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 12600,
+          "tries": 3,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Babes-Bolyai University",
+      "university": "Babes-Bolyai University",
+      "submissions": {
+        "B": {
+          "time": 1140,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 6600,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 14460,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Masaryk University",
+      "university": "Masaryk University",
+      "submissions": {
+        "B": {
+          "time": 2340,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 8460,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 12960,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Università di Pisa",
+      "university": "Università di Pisa",
+      "submissions": {
+        "B": {
+          "time": 2100,
+          "tries": 3,
+          "first": false
+        },
+        "C": {
+          "time": 7020,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 10500,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Bucharest",
+      "university": "University of Bucharest",
+      "submissions": {
+        "B": {
+          "time": 1200,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 12060,
+          "tries": 6,
+          "first": false
+        },
+        "E": {
+          "time": 6360,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Norwegian University of Science and Technology",
+      "university": "Norwegian University of Science and Technology",
+      "submissions": {
+        "B": {
+          "time": 2580,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 8520,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 12900,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Scuola Superiore di Studi Universitari e Perfezionamento \"Sant'Anna\"",
+      "university": "Scuola Superiore di Studi Universitari e Perfezionamento \"Sant'Anna\"",
+      "submissions": {
+        "B": {
+          "time": 1980,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 12060,
+          "tries": 4,
+          "first": false
+        },
+        "E": {
+          "time": 9000,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Citadel Team",
+      "university": "Citadel Team",
+      "submissions": {
+        "B": {
+          "time": 1140,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 13260,
+          "tries": 6,
+          "first": false
+        },
+        "E": {
+          "time": 8820,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Helsinki",
+      "university": "University of Helsinki",
+      "submissions": {
+        "B": {
+          "time": 900,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 15060,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 13740,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Taras Shevchenko National University of Kyiv",
+      "university": "Taras Shevchenko National University of Kyiv",
+      "submissions": {
+        "B": {
+          "time": 2220,
+          "tries": 4,
+          "first": false
+        },
+        "C": {
+          "time": 11460,
+          "tries": 7,
+          "first": false
+        },
+        "E": {
+          "time": 5340,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Scuola Normale Superiore",
+      "university": "Scuola Normale Superiore",
+      "submissions": {
+        "B": {
+          "time": 3840,
+          "tries": 3,
+          "first": false
+        },
+        "C": {
+          "time": 10080,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 14520,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "INSA Lyon",
+      "university": "INSA Lyon",
+      "submissions": {
+        "B": {
+          "time": 1620,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 8880,
+          "tries": 8,
+          "first": false
+        },
+        "E": {
+          "time": 12660,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Google Team",
+      "university": "Google Team",
+      "submissions": {
+        "B": {
+          "time": 1500,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 11460,
+          "tries": 5,
+          "first": false
+        },
+        "J": {
+          "time": 15300,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "POLITEHNICA University of Bucharest",
+      "university": "POLITEHNICA University of Bucharest",
+      "submissions": {
+        "B": {
+          "time": 2280,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 12180,
+          "tries": 4,
+          "first": false
+        },
+        "E": {
+          "time": 16620,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Radboud University",
+      "university": "Radboud University",
+      "submissions": {
+        "B": {
+          "time": 1740,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 14460,
+          "tries": 4,
+          "first": false
+        },
+        "E": {
+          "time": 13140,
+          "tries": 5,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Nicolaus Copernicus University",
+      "university": "Nicolaus Copernicus University",
+      "submissions": {
+        "B": {
+          "time": 1320,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 7500,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Technion - Israel Institute of Technology",
+      "university": "Technion - Israel Institute of Technology",
+      "submissions": {
+        "B": {
+          "time": 1560,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 9840,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "National Technical University of Athens",
+      "university": "National Technical University of Athens",
+      "submissions": {
+        "B": {
+          "time": 2820,
+          "tries": 4,
+          "first": false
+        },
+        "E": {
+          "time": 7380,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "École Normale Supérieure de Paris",
+      "university": "École Normale Supérieure de Paris",
+      "submissions": {
+        "B": {
+          "time": 1320,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 12780,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Sofia University",
+      "university": "Sofia University",
+      "submissions": {
+        "B": {
+          "time": 960,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 16020,
+          "tries": 5,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Neapolis University Pafos",
+      "university": "Neapolis University Pafos",
+      "submissions": {
+        "B": {
+          "time": 900,
+          "tries": 1,
+          "first": false
+        },
+        "I": {
+          "time": 17220,
+          "tries": 6,
+          "first": true
+        }
+      }
+    },
+    {
+      "name": "University of Bologna",
+      "university": "University of Bologna",
+      "submissions": {
+        "B": {
+          "time": 1920,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 13500,
+          "tries": 11,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Istanbul Technical University",
+      "university": "Istanbul Technical University",
+      "submissions": {
+        "B": {
+          "time": 1920,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Télécom Paris",
+      "university": "Télécom Paris",
+      "submissions": {
+        "B": {
+          "time": 1680,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Czech Technical University in Prague",
+      "university": "Czech Technical University in Prague",
+      "submissions": {
+        "B": {
+          "time": 2100,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Comenius University",
+      "university": "Comenius University",
+      "submissions": {
+        "B": {
+          "time": 3240,
+          "tries": 3,
+          "first": false
+        }
+      }
+    }
+  ]
+}
