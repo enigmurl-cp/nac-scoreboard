@@ -1,0 +1,1015 @@
+{
+  "duration": 18000,
+  "freeze": 14400,
+  "problems": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K"
+  ],
+  "teams": [
+    {
+      "name": "Harvard University",
+      "university": "Harvard University",
+      "submissions": {
+        "A": {
+          "tries": 7,
+          "time": 16980,
+          "first": true
+        },
+        "B": {
+          "tries": 1,
+          "time": 9540,
+          "first": false
+        },
+        "C": {
+          "tries": 2,
+          "time": 1860,
+          "first": false
+        },
+        "D": {
+          "tries": 1,
+          "time": 7740,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 2400,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 540,
+          "first": true
+        },
+        "G": {
+          "tries": 2,
+          "time": 6600,
+          "first": false
+        },
+        "H": {
+          "tries": 1,
+          "time": 11040,
+          "first": true
+        },
+        "I": {
+          "tries": 1,
+          "time": 3060,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 5220,
+          "first": true
+        }
+      }
+    },
+    {
+      "name": "University of Waterloo",
+      "university": "University of Waterloo",
+      "submissions": {
+        "A": {
+          "tries": 4,
+          "time": 17820,
+          "first": false
+        },
+        "B": {
+          "tries": 1,
+          "time": 7740,
+          "first": false
+        },
+        "C": {
+          "tries": 2,
+          "time": 3900,
+          "first": false
+        },
+        "D": {
+          "tries": 4,
+          "time": 12720,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 2700,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 1560,
+          "first": false
+        },
+        "G": {
+          "tries": 2,
+          "time": 5820,
+          "first": true
+        },
+        "H": {
+          "tries": 4,
+          "time": 17220,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 1200,
+          "first": true
+        },
+        "K": {
+          "tries": 4,
+          "time": 10680,
+          "first": true
+        }
+      }
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "university": "Massachusetts Institute of Technology",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 9900,
+          "first": false
+        },
+        "C": {
+          "tries": 1,
+          "time": 5280,
+          "first": false
+        },
+        "D": {
+          "tries": 2,
+          "time": 1800,
+          "first": true
+        },
+        "E": {
+          "tries": 1,
+          "time": 4800,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 2460,
+          "first": false
+        },
+        "G": {
+          "tries": 2,
+          "time": 6540,
+          "first": false
+        },
+        "H": {
+          "tries": 2,
+          "time": 14100,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 4080,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 8700,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Central Florida",
+      "university": "University of Central Florida",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 13980,
+          "first": false
+        },
+        "C": {
+          "tries": 1,
+          "time": 2940,
+          "first": false
+        },
+        "D": {
+          "tries": 6,
+          "time": 6600,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 2520,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 660,
+          "first": false
+        },
+        "G": {
+          "tries": 6,
+          "time": 16200,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 1440,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Stanford University",
+      "university": "Stanford University",
+      "submissions": {
+        "B": {
+          "tries": 4,
+          "time": 13560,
+          "first": false
+        },
+        "C": {
+          "tries": 1,
+          "time": 2520,
+          "first": false
+        },
+        "D": {
+          "tries": 2,
+          "time": 10860,
+          "first": false
+        },
+        "E": {
+          "tries": 2,
+          "time": 5760,
+          "first": false
+        },
+        "F": {
+          "tries": 3,
+          "time": 2220,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 3720,
+          "first": false
+        },
+        "J": {
+          "tries": 2,
+          "time": 16140,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Minnesota",
+      "university": "University of Minnesota",
+      "submissions": {
+        "B": {
+          "tries": 2,
+          "time": 14340,
+          "first": false
+        },
+        "C": {
+          "tries": 1,
+          "time": 5580,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 4260,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 1680,
+          "first": false
+        },
+        "G": {
+          "tries": 4,
+          "time": 17760,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 3180,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Cornell University",
+      "university": "Cornell University",
+      "submissions": {
+        "C": {
+          "tries": 1,
+          "time": 5880,
+          "first": false
+        },
+        "D": {
+          "tries": 5,
+          "time": 17640,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 15540,
+          "first": false
+        },
+        "F": {
+          "tries": 3,
+          "time": 1980,
+          "first": false
+        },
+        "G": {
+          "tries": 3,
+          "time": 13080,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 2760,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of California, Los Angeles",
+      "university": "University of California, Los Angeles",
+      "submissions": {
+        "C": {
+          "tries": 1,
+          "time": 4740,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 5400,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 1500,
+          "first": false
+        },
+        "G": {
+          "tries": 3,
+          "time": 12300,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 3840,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Stony Brook University",
+      "university": "Stony Brook University",
+      "submissions": {
+        "C": {
+          "tries": 1,
+          "time": 8220,
+          "first": false
+        },
+        "D": {
+          "tries": 2,
+          "time": 9780,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 900,
+          "first": true
+        },
+        "F": {
+          "tries": 3,
+          "time": 2280,
+          "first": false
+        },
+        "I": {
+          "tries": 3,
+          "time": 4620,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Calgary",
+      "university": "University of Calgary",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 8520,
+          "first": false
+        },
+        "C": {
+          "tries": 3,
+          "time": 7620,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 11880,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 3840,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 3240,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of California, Berkeley",
+      "university": "University of California, Berkeley",
+      "submissions": {
+        "C": {
+          "tries": 1,
+          "time": 1500,
+          "first": true
+        },
+        "E": {
+          "tries": 3,
+          "time": 10080,
+          "first": false
+        },
+        "F": {
+          "tries": 3,
+          "time": 4140,
+          "first": false
+        },
+        "G": {
+          "tries": 5,
+          "time": 12180,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 2940,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "submissions": {
+        "B": {
+          "tries": 3,
+          "time": 9060,
+          "first": false
+        },
+        "C": {
+          "tries": 1,
+          "time": 5220,
+          "first": false
+        },
+        "D": {
+          "tries": 4,
+          "time": 17160,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 1800,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 3840,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Illinois at Urbana\u2013Champaign",
+      "university": "University of Illinois at Urbana\u2013Champaign",
+      "submissions": {
+        "C": {
+          "tries": 3,
+          "time": 5760,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 1620,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 4980,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 11880,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of British Columbia",
+      "university": "University of British Columbia",
+      "submissions": {
+        "C": {
+          "tries": 3,
+          "time": 8100,
+          "first": false
+        },
+        "E": {
+          "tries": 2,
+          "time": 11820,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 1680,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 6060,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Chicago",
+      "university": "University of Chicago",
+      "submissions": {
+        "B": {
+          "tries": 2,
+          "time": 16680,
+          "first": false
+        },
+        "C": {
+          "tries": 4,
+          "time": 5700,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 1740,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 2880,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Rochester",
+      "university": "University of Rochester",
+      "submissions": {
+        "B": {
+          "tries": 2,
+          "time": 16140,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 4080,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 12240,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 7380,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Toronto",
+      "university": "University of Toronto",
+      "submissions": {
+        "C": {
+          "tries": 2,
+          "time": 7500,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 2940,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 4680,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Florida",
+      "university": "University of Florida",
+      "submissions": {
+        "C": {
+          "tries": 1,
+          "time": 7560,
+          "first": false
+        },
+        "F": {
+          "tries": 3,
+          "time": 5460,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 4620,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Southern California",
+      "university": "University of Southern California",
+      "submissions": {
+        "F": {
+          "tries": 2,
+          "time": 2220,
+          "first": false
+        },
+        "G": {
+          "tries": 3,
+          "time": 17580,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 6900,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Princeton University",
+      "university": "Princeton University",
+      "submissions": {
+        "B": {
+          "tries": 7,
+          "time": 8700,
+          "first": false
+        },
+        "F": {
+          "tries": 4,
+          "time": 4380,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 8280,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Columbia University",
+      "university": "Columbia University",
+      "submissions": {
+        "E": {
+          "tries": 6,
+          "time": 14100,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 2280,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 11580,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "The University of Texas at Dallas",
+      "university": "The University of Texas at Dallas",
+      "submissions": {
+        "B": {
+          "tries": 3,
+          "time": 15540,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 3180,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 13680,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Wisconsin\u2013Madison",
+      "university": "University of Wisconsin\u2013Madison",
+      "submissions": {
+        "F": {
+          "tries": 1,
+          "time": 5520,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 2100,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Harvey Mudd College",
+      "university": "Harvey Mudd College",
+      "submissions": {
+        "F": {
+          "tries": 1,
+          "time": 2760,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 5520,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "New York University",
+      "university": "New York University",
+      "submissions": {
+        "F": {
+          "tries": 1,
+          "time": 3780,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 6300,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Virginia Tech",
+      "university": "Virginia Tech",
+      "submissions": {
+        "E": {
+          "tries": 4,
+          "time": 5160,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 1440,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Texas at Austin",
+      "university": "University of Texas at Austin",
+      "submissions": {
+        "F": {
+          "tries": 1,
+          "time": 2820,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 7560,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Duke University",
+      "university": "Duke University",
+      "submissions": {
+        "F": {
+          "tries": 2,
+          "time": 2340,
+          "first": false
+        },
+        "I": {
+          "tries": 3,
+          "time": 8040,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Virginia",
+      "university": "University of Virginia",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 5940,
+          "first": true
+        },
+        "F": {
+          "tries": 2,
+          "time": 12360,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Lethbridge",
+      "university": "University of Lethbridge",
+      "submissions": {
+        "C": {
+          "tries": 4,
+          "time": 15600,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 2400,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of Utah",
+      "university": "University of Utah",
+      "submissions": {
+        "B": {
+          "tries": 2,
+          "time": 16980,
+          "first": false
+        },
+        "F": {
+          "tries": 3,
+          "time": 3360,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Clemson University",
+      "university": "Clemson University",
+      "submissions": {
+        "B": {
+          "tries": 2,
+          "time": 10020,
+          "first": false
+        },
+        "F": {
+          "tries": 3,
+          "time": 16080,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Florida Institute of Technology",
+      "university": "Florida Institute of Technology",
+      "submissions": {
+        "F": {
+          "tries": 3,
+          "time": 2220,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of North Carolina at Chapel Hill",
+      "university": "University of North Carolina at Chapel Hill",
+      "submissions": {
+        "F": {
+          "tries": 2,
+          "time": 3720,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Cedarville University",
+      "university": "Cedarville University",
+      "submissions": {
+        "F": {
+          "tries": 2,
+          "time": 4800,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "South Dakota School of Mines and Technology",
+      "university": "South Dakota School of Mines and Technology",
+      "submissions": {
+        "F": {
+          "tries": 1,
+          "time": 7320,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Colorado School of Mines",
+      "university": "Colorado School of Mines",
+      "submissions": {
+        "I": {
+          "tries": 1,
+          "time": 7920,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Colorado State University",
+      "university": "Colorado State University",
+      "submissions": {
+        "F": {
+          "tries": 3,
+          "time": 5820,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "University of South Dakota",
+      "university": "University of South Dakota",
+      "submissions": {
+        "F": {
+          "tries": 3,
+          "time": 5880,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Brigham Young University\u2013Hawaii",
+      "university": "Brigham Young University\u2013Hawaii",
+      "submissions": {
+        "I": {
+          "tries": 1,
+          "time": 8820,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "George Fox University",
+      "university": "George Fox University",
+      "submissions": {
+        "F": {
+          "tries": 1,
+          "time": 15360,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Baylor University",
+      "university": "Baylor University",
+      "submissions": {}
+    },
+    {
+      "name": "California Institute of Technology",
+      "university": "California Institute of Technology",
+      "submissions": {}
+    },
+    {
+      "name": "Georgia Institute of Technology",
+      "university": "Georgia Institute of Technology",
+      "submissions": {}
+    },
+    {
+      "name": "Illinois Institute of Technology",
+      "university": "Illinois Institute of Technology",
+      "submissions": {}
+    },
+    {
+      "name": "Iowa State University",
+      "university": "Iowa State University",
+      "submissions": {}
+    },
+    {
+      "name": "Northwestern University",
+      "university": "Northwestern University",
+      "submissions": {}
+    },
+    {
+      "name": "University of Victoria",
+      "university": "University of Victoria",
+      "submissions": {}
+    }
+  ]
+}
