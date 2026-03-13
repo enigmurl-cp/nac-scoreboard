@@ -1,0 +1,1112 @@
+{
+  "duration": 18000,
+  "freeze": 14400,
+  "problems": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "teams": [
+    {
+      "name": "teamname or NP = D?(AdjP)*N(PP)*",
+      "university": "teamname or NP = D?(AdjP)*N(PP)*",
+      "submissions": {
+        "A": {
+          "tries": 1,
+          "time": 6900,
+          "first": false
+        },
+        "B": {
+          "tries": 4,
+          "time": 9840,
+          "first": false
+        },
+        "C": {
+          "tries": 3,
+          "time": 8280,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 1200,
+          "first": true
+        },
+        "G": {
+          "tries": 1,
+          "time": 240,
+          "first": false
+        },
+        "H": {
+          "tries": 3,
+          "time": 1680,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 4320,
+          "first": false
+        },
+        "M": {
+          "tries": 3,
+          "time": 4500,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "GNS-Software",
+      "university": "GNS-Software",
+      "submissions": {
+        "A": {
+          "tries": 3,
+          "time": 5880,
+          "first": false
+        },
+        "B": {
+          "tries": 13,
+          "time": 11640,
+          "first": false
+        },
+        "C": {
+          "tries": 4,
+          "time": 9300,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 4860,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 420,
+          "first": false
+        },
+        "H": {
+          "tries": 2,
+          "time": 2040,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 2460,
+          "first": false
+        },
+        "M": {
+          "tries": 4,
+          "time": 1140,
+          "first": true
+        }
+      }
+    },
+    {
+      "name": "UIUC B",
+      "university": "UIUC B",
+      "submissions": {
+        "A": {
+          "tries": 1,
+          "time": 3720,
+          "first": false
+        },
+        "C": {
+          "tries": 2,
+          "time": 8820,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 5580,
+          "first": false
+        },
+        "G": {
+          "tries": 3,
+          "time": 480,
+          "first": false
+        },
+        "H": {
+          "tries": 3,
+          "time": 9180,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 3660,
+          "first": false
+        },
+        "M": {
+          "tries": 2,
+          "time": 2640,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "UIUC D",
+      "university": "UIUC D",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 3420,
+          "first": true
+        },
+        "C": {
+          "tries": 4,
+          "time": 5820,
+          "first": true
+        },
+        "F": {
+          "tries": 1,
+          "time": 5220,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 900,
+          "first": false
+        },
+        "H": {
+          "tries": 6,
+          "time": 1260,
+          "first": true
+        },
+        "I": {
+          "tries": 1,
+          "time": 4140,
+          "first": false
+        },
+        "M": {
+          "tries": 6,
+          "time": 6840,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Demons",
+      "university": "Demons",
+      "submissions": {
+        "A": {
+          "tries": 2,
+          "time": 11340,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 7200,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 840,
+          "first": false
+        },
+        "H": {
+          "tries": 1,
+          "time": 5340,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 3060,
+          "first": false
+        },
+        "M": {
+          "tries": 1,
+          "time": 3120,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "York Red",
+      "university": "York Red",
+      "submissions": {
+        "B": {
+          "tries": 11,
+          "time": 9900,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 4260,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 120,
+          "first": false
+        },
+        "H": {
+          "tries": 2,
+          "time": 1500,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 2100,
+          "first": false
+        },
+        "M": {
+          "tries": 2,
+          "time": 3240,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "RHIT Fighting Engineers Red",
+      "university": "RHIT Fighting Engineers Red",
+      "submissions": {
+        "B": {
+          "tries": 2,
+          "time": 6120,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 8520,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 420,
+          "first": false
+        },
+        "H": {
+          "tries": 1,
+          "time": 8400,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 2880,
+          "first": false
+        },
+        "M": {
+          "tries": 5,
+          "time": 4920,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Kotlinaughts",
+      "university": "Kotlinaughts",
+      "submissions": {
+        "C": {
+          "tries": 2,
+          "time": 7140,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 7680,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 240,
+          "first": false
+        },
+        "H": {
+          "tries": 9,
+          "time": 11460,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 1080,
+          "first": false
+        },
+        "M": {
+          "tries": 3,
+          "time": 2460,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "TruWarriorss",
+      "university": "TruWarriorss",
+      "submissions": {
+        "F": {
+          "tries": 2,
+          "time": 7440,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 480,
+          "first": false
+        },
+        "H": {
+          "tries": 1,
+          "time": 5280,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 4140,
+          "first": false
+        },
+        "M": {
+          "tries": 5,
+          "time": 7740,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Hunter 1",
+      "university": "Hunter 1",
+      "submissions": {
+        "F": {
+          "tries": 2,
+          "time": 7560,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 420,
+          "first": false
+        },
+        "H": {
+          "tries": 4,
+          "time": 6660,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 4560,
+          "first": false
+        },
+        "M": {
+          "tries": 5,
+          "time": 2400,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Poly 1",
+      "university": "Poly 1",
+      "submissions": {
+        "A": {
+          "tries": 5,
+          "time": 11400,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 240,
+          "first": false
+        },
+        "H": {
+          "tries": 5,
+          "time": 4560,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 3060,
+          "first": false
+        },
+        "M": {
+          "tries": 2,
+          "time": 3180,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Dark Matter",
+      "university": "Dark Matter",
+      "submissions": {
+        "F": {
+          "tries": 1,
+          "time": 6600,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 480,
+          "first": false
+        },
+        "H": {
+          "tries": 3,
+          "time": 11160,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 4380,
+          "first": false
+        },
+        "M": {
+          "tries": 4,
+          "time": 8400,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Redhawk1",
+      "university": "Redhawk1",
+      "submissions": {
+        "F": {
+          "tries": 2,
+          "time": 10620,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 360,
+          "first": false
+        },
+        "H": {
+          "tries": 3,
+          "time": 7560,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 4500,
+          "first": false
+        },
+        "M": {
+          "tries": 5,
+          "time": 7200,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "UofL Cards Black",
+      "university": "UofL Cards Black",
+      "submissions": {
+        "F": {
+          "tries": 2,
+          "time": 7980,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 120,
+          "first": true
+        },
+        "H": {
+          "tries": 10,
+          "time": 10260,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 3360,
+          "first": false
+        },
+        "M": {
+          "tries": 7,
+          "time": 4200,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Carleton Infinite Recursion",
+      "university": "Carleton Infinite Recursion",
+      "submissions": {
+        "F": {
+          "tries": 1,
+          "time": 10680,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 420,
+          "first": false
+        },
+        "H": {
+          "tries": 1,
+          "time": 4920,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 8220,
+          "first": false
+        },
+        "M": {
+          "tries": 14,
+          "time": 9600,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Dunder Mifflin Scranton",
+      "university": "Dunder Mifflin Scranton",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 240,
+          "first": false
+        },
+        "H": {
+          "tries": 1,
+          "time": 2400,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 1020,
+          "first": true
+        },
+        "M": {
+          "tries": 4,
+          "time": 2820,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "uky-bbb",
+      "university": "uky-bbb",
+      "submissions": {
+        "G": {
+          "tries": 2,
+          "time": 300,
+          "first": false
+        },
+        "H": {
+          "tries": 2,
+          "time": 1320,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 2940,
+          "first": false
+        },
+        "M": {
+          "tries": 2,
+          "time": 2940,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "CY2",
+      "university": "CY2",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 600,
+          "first": false
+        },
+        "H": {
+          "tries": 5,
+          "time": 3360,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 2520,
+          "first": false
+        },
+        "M": {
+          "tries": 5,
+          "time": 2040,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "localMaxima",
+      "university": "localMaxima",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 780,
+          "first": false
+        },
+        "H": {
+          "tries": 3,
+          "time": 3360,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 3960,
+          "first": false
+        },
+        "M": {
+          "tries": 3,
+          "time": 9540,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Hendrix Black",
+      "university": "Hendrix Black",
+      "submissions": {
+        "F": {
+          "tries": 1,
+          "time": 7020,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 240,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 3480,
+          "first": false
+        },
+        "M": {
+          "tries": 5,
+          "time": 11580,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "USD A",
+      "university": "USD A",
+      "submissions": {
+        "G": {
+          "tries": 2,
+          "time": 360,
+          "first": false
+        },
+        "H": {
+          "tries": 7,
+          "time": 8520,
+          "first": false
+        },
+        "I": {
+          "tries": 4,
+          "time": 7980,
+          "first": false
+        },
+        "M": {
+          "tries": 5,
+          "time": 9060,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "UManitoba 12",
+      "university": "UManitoba 12",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 1260,
+          "first": false
+        },
+        "H": {
+          "tries": 3,
+          "time": 11880,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 4980,
+          "first": false
+        },
+        "M": {
+          "tries": 12,
+          "time": 12240,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "UofL Cards Red",
+      "university": "UofL Cards Red",
+      "submissions": {
+        "G": {
+          "tries": 3,
+          "time": 1380,
+          "first": false
+        },
+        "H": {
+          "tries": 10,
+          "time": 12180,
+          "first": false
+        },
+        "I": {
+          "tries": 3,
+          "time": 11520,
+          "first": false
+        },
+        "M": {
+          "tries": 8,
+          "time": 12480,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "LAN",
+      "university": "LAN",
+      "submissions": {
+        "A": {
+          "tries": 2,
+          "time": 3360,
+          "first": true
+        },
+        "G": {
+          "tries": 1,
+          "time": 1920,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 5520,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "S&T Gold",
+      "university": "S&T Gold",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 600,
+          "first": false
+        },
+        "H": {
+          "tries": 1,
+          "time": 4440,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 7020,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Vector Change",
+      "university": "Vector Change",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 240,
+          "first": false
+        },
+        "I": {
+          "tries": 4,
+          "time": 6300,
+          "first": false
+        },
+        "M": {
+          "tries": 3,
+          "time": 2940,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "DSU Trojans 2",
+      "university": "DSU Trojans 2",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 3360,
+          "first": false
+        },
+        "H": {
+          "tries": 1,
+          "time": 7380,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 5280,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "MTU Orange",
+      "university": "MTU Orange",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 300,
+          "first": false
+        },
+        "H": {
+          "tries": 1,
+          "time": 9180,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 7740,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "HAT-trick",
+      "university": "HAT-trick",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 300,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 4560,
+          "first": false
+        },
+        "M": {
+          "tries": 6,
+          "time": 7500,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Golden Badgers",
+      "university": "Golden Badgers",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 660,
+          "first": false
+        },
+        "H": {
+          "tries": 5,
+          "time": 12060,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 2760,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "<insert team name here>",
+      "university": "<insert team name here>",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 300,
+          "first": false
+        },
+        "H": {
+          "tries": 5,
+          "time": 10860,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 5820,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "ViTorch",
+      "university": "ViTorch",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 300,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 4680,
+          "first": false
+        },
+        "M": {
+          "tries": 9,
+          "time": 10020,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Hardrockers",
+      "university": "Hardrockers",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 360,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 10980,
+          "first": false
+        },
+        "M": {
+          "tries": 9,
+          "time": 11940,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "CUCBatKnights",
+      "university": "CUCBatKnights",
+      "submissions": {
+        "F": {
+          "tries": 8,
+          "time": 12360,
+          "first": false
+        },
+        "G": {
+          "tries": 2,
+          "time": 360,
+          "first": false
+        },
+        "M": {
+          "tries": 11,
+          "time": 11280,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "UManitoba 2",
+      "university": "UManitoba 2",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 540,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 2640,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "VU Team 2",
+      "university": "VU Team 2",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 480,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 5100,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Golden Rams 3",
+      "university": "Golden Rams 3",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 600,
+          "first": false
+        },
+        "I": {
+          "tries": 3,
+          "time": 4860,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Team Pho",
+      "university": "Team Pho",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 480,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 7320,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Social Coding",
+      "university": "Social Coding",
+      "submissions": {
+        "G": {
+          "tries": 2,
+          "time": 720,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 8580,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Redhawk2",
+      "university": "Redhawk2",
+      "submissions": {
+        "G": {
+          "tries": 1,
+          "time": 120,
+          "first": false
+        },
+        "I": {
+          "tries": 3,
+          "time": 10320,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "CinCity",
+      "university": "CinCity",
+      "submissions": {
+        "G": {
+          "tries": 2,
+          "time": 2340,
+          "first": false
+        },
+        "H": {
+          "tries": 2,
+          "time": 11760,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "VU Team 4",
+      "university": "VU Team 4",
+      "submissions": {}
+    }
+  ]
+}

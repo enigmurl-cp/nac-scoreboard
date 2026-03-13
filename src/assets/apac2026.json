@@ -1,0 +1,2581 @@
+{
+  "name": "APAC 2026",
+  "duration": 18000,
+  "freeze": 14400,
+  "problems": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "teams": [
+    {
+      "name": "Strong Zero",
+      "university": "National University of Singapore",
+      "submissions": {
+        "A": {
+          "time": 15960,
+          "tries": 1,
+          "first": true
+        },
+        "B": {
+          "time": 11820,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 3480,
+          "tries": 2,
+          "first": false
+        },
+        "D": {
+          "time": 4620,
+          "tries": 1,
+          "first": true
+        },
+        "E": {
+          "time": 3600,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 7140,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 840,
+          "tries": 1,
+          "first": true
+        },
+        "I": {
+          "time": 6240,
+          "tries": 1,
+          "first": true
+        },
+        "J": {
+          "time": 1860,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 660,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Fox is cute",
+      "university": "KAIST",
+      "submissions": {
+        "B": {
+          "time": 6900,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 4500,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 12900,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 5580,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 7080,
+          "tries": 1,
+          "first": false
+        },
+        "G": {
+          "time": 15900,
+          "tries": 2,
+          "first": true
+        },
+        "H": {
+          "time": 2280,
+          "tries": 1,
+          "first": false
+        },
+        "I": {
+          "time": 11520,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 2160,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1260,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "std_abs",
+      "university": "National Taiwan University",
+      "submissions": {
+        "B": {
+          "time": 6360,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 4260,
+          "tries": 2,
+          "first": false
+        },
+        "D": {
+          "time": 12960,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 11340,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 5820,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 1800,
+          "tries": 1,
+          "first": false
+        },
+        "I": {
+          "time": 9480,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 1920,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1080,
+          "tries": 1,
+          "first": false
+        },
+        "M": {
+          "time": 16260,
+          "tries": 2,
+          "first": true
+        }
+      }
+    },
+    {
+      "name": "Just use CRT",
+      "university": "Seoul National University",
+      "submissions": {
+        "B": {
+          "time": 4200,
+          "tries": 1,
+          "first": true
+        },
+        "C": {
+          "time": 3000,
+          "tries": 2,
+          "first": false
+        },
+        "D": {
+          "time": 9540,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 4740,
+          "tries": 4,
+          "first": false
+        },
+        "F": {
+          "time": 5520,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 1140,
+          "tries": 1,
+          "first": false
+        },
+        "I": {
+          "time": 16380,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 2880,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 960,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "bogosort",
+      "university": "Kyoto University",
+      "submissions": {
+        "B": {
+          "time": 10080,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 4200,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 14940,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 7320,
+          "tries": 3,
+          "first": false
+        },
+        "F": {
+          "time": 8940,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 1560,
+          "tries": 1,
+          "first": false
+        },
+        "I": {
+          "time": 16980,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 3240,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1200,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "SSQS",
+      "university": "The University of Tokyo",
+      "submissions": {
+        "B": {
+          "time": 9780,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 5100,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 12240,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 9600,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 8160,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 2820,
+          "tries": 2,
+          "first": false
+        },
+        "I": {
+          "time": 15420,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 3240,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1260,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "AMATSUKAZE",
+      "university": "Institute of Science Tokyo",
+      "submissions": {
+        "B": {
+          "time": 13380,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 9240,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 10920,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 10680,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 7680,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 3060,
+          "tries": 3,
+          "first": false
+        },
+        "I": {
+          "time": 15780,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 5580,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1500,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "infinity",
+      "university": "University of Engineering and Technology - VNU",
+      "submissions": {
+        "B": {
+          "time": 15900,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 13260,
+          "tries": 5,
+          "first": false
+        },
+        "D": {
+          "time": 10680,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 5280,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 8880,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 3780,
+          "tries": 3,
+          "first": false
+        },
+        "I": {
+          "time": 14580,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 3120,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1980,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "HCMUS-ThaiFamily",
+      "university": "University of Science, VNU-HCM",
+      "submissions": {
+        "B": {
+          "time": 8940,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 6780,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 11640,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 2100,
+          "tries": 3,
+          "first": true
+        },
+        "F": {
+          "time": 5400,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 3720,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 4020,
+          "tries": 2,
+          "first": false
+        },
+        "K": {
+          "time": 2580,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "PCkomachi",
+      "university": "National Taiwan University",
+      "submissions": {
+        "B": {
+          "time": 9540,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 4740,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 12060,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 5040,
+          "tries": 3,
+          "first": false
+        },
+        "F": {
+          "time": 7080,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 2100,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 2880,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2280,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "DaiMonge",
+      "university": "Kyoto University",
+      "submissions": {
+        "B": {
+          "time": 13620,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 3960,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 7080,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 6540,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 2100,
+          "tries": 3,
+          "first": false
+        },
+        "I": {
+          "time": 10980,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 2460,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1380,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Rinshan Solution",
+      "university": "Keio University",
+      "submissions": {
+        "B": {
+          "time": 10440,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 9120,
+          "tries": 5,
+          "first": false
+        },
+        "D": {
+          "time": 12900,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 7680,
+          "tries": 6,
+          "first": false
+        },
+        "F": {
+          "time": 3660,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 1920,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 2580,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 600,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "217",
+      "university": "The University of Tokyo",
+      "submissions": {
+        "B": {
+          "time": 11580,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 6780,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 14580,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 11040,
+          "tries": 3,
+          "first": false
+        },
+        "F": {
+          "time": 3540,
+          "tries": 1,
+          "first": true
+        },
+        "H": {
+          "time": 1500,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 5760,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2220,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Here for the Free Snacks",
+      "university": "Chulalongkorn University",
+      "submissions": {
+        "B": {
+          "time": 13560,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 3660,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 10320,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 15780,
+          "tries": 6,
+          "first": false
+        },
+        "F": {
+          "time": 9120,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 2460,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 1860,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1260,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "NYCU_CartesianTreeII",
+      "university": "National Yang Ming Chiao Tung University",
+      "submissions": {
+        "B": {
+          "time": 8760,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 4740,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 17760,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 9000,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 12120,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 4020,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 3600,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2220,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "); DROP TABLE Teams;--",
+      "university": "UNSW Sydney",
+      "submissions": {
+        "B": {
+          "time": 11640,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 8880,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 8220,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 13800,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 17040,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 7680,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 1800,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2280,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "NYCU_Revue_Starlight",
+      "university": "National Yang Ming Chiao Tung University",
+      "submissions": {
+        "B": {
+          "time": 11400,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 8640,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 16140,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 12360,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 9540,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 4200,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 5340,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 6180,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "The Revenge of shinchan",
+      "university": "The University of Osaka",
+      "submissions": {
+        "C": {
+          "time": 16980,
+          "tries": 10,
+          "first": false
+        },
+        "E": {
+          "time": 10380,
+          "tries": 3,
+          "first": false
+        },
+        "F": {
+          "time": 13980,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 3120,
+          "tries": 3,
+          "first": false
+        },
+        "I": {
+          "time": 13080,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 5880,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1320,
+          "tries": 1,
+          "first": false
+        },
+        "L": {
+          "time": 16200,
+          "tries": 4,
+          "first": true
+        }
+      }
+    },
+    {
+      "name": "Penguin and Tonic",
+      "university": "National University of Singapore",
+      "submissions": {
+        "B": {
+          "time": 6900,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 11040,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 4200,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 9060,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 3060,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 1740,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1800,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Endgame",
+      "university": "Yonsei University",
+      "submissions": {
+        "B": {
+          "time": 8280,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 2280,
+          "tries": 1,
+          "first": true
+        },
+        "E": {
+          "time": 12180,
+          "tries": 7,
+          "first": false
+        },
+        "F": {
+          "time": 6300,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 1620,
+          "tries": 3,
+          "first": false
+        },
+        "J": {
+          "time": 3540,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2820,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "NEU.Anarchaos",
+      "university": "National Economics University",
+      "submissions": {
+        "C": {
+          "time": 3360,
+          "tries": 1,
+          "first": false
+        },
+        "D": {
+          "time": 13500,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 6240,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 10320,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 7620,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 1260,
+          "tries": 1,
+          "first": true
+        },
+        "K": {
+          "time": 3960,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "o3-kayama",
+      "university": "Institute of Science Tokyo",
+      "submissions": {
+        "B": {
+          "time": 13320,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 6300,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 11700,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 7440,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 2340,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 3180,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1380,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "NJG",
+      "university": "Hanyang University",
+      "submissions": {
+        "B": {
+          "time": 11580,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 5400,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 7140,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 11940,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 5580,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 2580,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2100,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "milliard",
+      "university": "University of Engineering and Technology - VNU",
+      "submissions": {
+        "B": {
+          "time": 11700,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 6720,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 7800,
+          "tries": 4,
+          "first": false
+        },
+        "F": {
+          "time": 10620,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 2880,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 3480,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1560,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Uniformly Random Name",
+      "university": "University of Melbourne",
+      "submissions": {
+        "B": {
+          "time": 10800,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 12300,
+          "tries": 5,
+          "first": false
+        },
+        "E": {
+          "time": 6540,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 10500,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 2280,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 2940,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1080,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Magical Fish",
+      "university": "The University of Tokyo",
+      "submissions": {
+        "B": {
+          "time": 13800,
+          "tries": 3,
+          "first": false
+        },
+        "C": {
+          "time": 5340,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 8700,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 10080,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 3180,
+          "tries": 3,
+          "first": false
+        },
+        "J": {
+          "time": 4320,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1920,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "HCMUS-AleaJactaEst",
+      "university": "University of Science, VNU-HCM",
+      "submissions": {
+        "B": {
+          "time": 13800,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 9540,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 14340,
+          "tries": 4,
+          "first": false
+        },
+        "F": {
+          "time": 6060,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 4740,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 2760,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 420,
+          "tries": 1,
+          "first": true
+        }
+      }
+    },
+    {
+      "name": "SEVERANCE",
+      "university": "Yonsei University",
+      "submissions": {
+        "B": {
+          "time": 9180,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 5340,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 12000,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 16980,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 3180,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 4380,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 6900,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "zer0shiki",
+      "university": "Institute of Science Tokyo",
+      "submissions": {
+        "B": {
+          "time": 12540,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 7920,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 11580,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 15000,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 3660,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 5100,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1860,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "bonsai",
+      "university": "University of Aizu",
+      "submissions": {
+        "C": {
+          "time": 7680,
+          "tries": 3,
+          "first": false
+        },
+        "D": {
+          "time": 10020,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 15660,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 13680,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 5220,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 5580,
+          "tries": 2,
+          "first": false
+        },
+        "K": {
+          "time": 1140,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "UmJongNo",
+      "university": "KAIST",
+      "submissions": {
+        "B": {
+          "time": 9480,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 10740,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 17580,
+          "tries": 3,
+          "first": false
+        },
+        "F": {
+          "time": 13440,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 4620,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 5040,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2460,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Just Reboot JungSangHwa",
+      "university": "Pusan National University",
+      "submissions": {
+        "B": {
+          "time": 11940,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 6420,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 10560,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 13740,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 4080,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 10920,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 4140,
+          "tries": 3,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "junhoLover",
+      "university": "SungKyunKwan University",
+      "submissions": {
+        "C": {
+          "time": 6840,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 15960,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 12960,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 5400,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 3600,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2940,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "y_1",
+      "university": "Hokkaido University",
+      "submissions": {
+        "C": {
+          "time": 7620,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 12360,
+          "tries": 4,
+          "first": false
+        },
+        "F": {
+          "time": 12120,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 4380,
+          "tries": 4,
+          "first": false
+        },
+        "J": {
+          "time": 5760,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1140,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "BKDN.LoveBaku",
+      "university": "University of Science and Technology - The University of Danang",
+      "submissions": {
+        "B": {
+          "time": 13560,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 9420,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 16740,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 3540,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 7080,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 3120,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "THS",
+      "university": "Kyoto University",
+      "submissions": {
+        "C": {
+          "time": 6120,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 13080,
+          "tries": 4,
+          "first": false
+        },
+        "F": {
+          "time": 12960,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 1500,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 9540,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 5820,
+          "tries": 3,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "PTIT.Star",
+      "university": "Posts and Telecommunications Institute of Technology, HN",
+      "submissions": {
+        "C": {
+          "time": 9240,
+          "tries": 4,
+          "first": false
+        },
+        "E": {
+          "time": 13380,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 16080,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 7500,
+          "tries": 3,
+          "first": false
+        },
+        "J": {
+          "time": 4200,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1500,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "1.5Nachia",
+      "university": "The University of Osaka",
+      "submissions": {
+        "B": {
+          "time": 17280,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 8220,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 17880,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 4140,
+          "tries": 3,
+          "first": false
+        },
+        "J": {
+          "time": 6720,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 3000,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "NYCU_FriedShrimp",
+      "university": "National Yang Ming Chiao Tung University",
+      "submissions": {
+        "B": {
+          "time": 15300,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 9660,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 15720,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 2700,
+          "tries": 3,
+          "first": false
+        },
+        "J": {
+          "time": 2820,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 8760,
+          "tries": 4,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "VNUHCM.UIT.JobSeekers",
+      "university": "University of Information Technology - Vietnam National University HCM",
+      "submissions": {
+        "C": {
+          "time": 8520,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 17220,
+          "tries": 5,
+          "first": false
+        },
+        "F": {
+          "time": 13920,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 7020,
+          "tries": 4,
+          "first": false
+        },
+        "J": {
+          "time": 3780,
+          "tries": 2,
+          "first": false
+        },
+        "K": {
+          "time": 1680,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "fa ri do la si ma net",
+      "university": "BINUS University",
+      "submissions": {
+        "B": {
+          "time": 12780,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 8040,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 16800,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 8760,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 7380,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 4860,
+          "tries": 4,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "print(\"\\u0D9E\")",
+      "university": "Nanyang Technological University",
+      "submissions": {
+        "B": {
+          "time": 7320,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 14340,
+          "tries": 4,
+          "first": false
+        },
+        "E": {
+          "time": 11520,
+          "tries": 4,
+          "first": false
+        },
+        "H": {
+          "time": 5220,
+          "tries": 3,
+          "first": false
+        },
+        "J": {
+          "time": 9060,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 7020,
+          "tries": 6,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "NTNU_2beatdown",
+      "university": "National Taiwan Normal University",
+      "submissions": {
+        "C": {
+          "time": 15660,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 17520,
+          "tries": 9,
+          "first": false
+        },
+        "F": {
+          "time": 16620,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 4740,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 2820,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 900,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "The b in problem b stands for brick",
+      "university": "De La Salle University",
+      "submissions": {
+        "C": {
+          "time": 5940,
+          "tries": 1,
+          "first": false
+        },
+        "F": {
+          "time": 9720,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 2580,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 7920,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1140,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "2 3 5 8 14",
+      "university": "Jeonbuk National University",
+      "submissions": {
+        "C": {
+          "time": 7140,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 14460,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 5040,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 3900,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1680,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "googol",
+      "university": "University of Engineering and Technology - VNU",
+      "submissions": {
+        "C": {
+          "time": 8160,
+          "tries": 2,
+          "first": false
+        },
+        "E": {
+          "time": 13080,
+          "tries": 3,
+          "first": false
+        },
+        "H": {
+          "time": 5520,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 2760,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1440,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Rock kokiri paper",
+      "university": "KAIST",
+      "submissions": {
+        "B": {
+          "time": 16920,
+          "tries": 2,
+          "first": false
+        },
+        "C": {
+          "time": 8640,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 2760,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 5580,
+          "tries": 2,
+          "first": false
+        },
+        "K": {
+          "time": 1620,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "WanPiece",
+      "university": "BINUS University",
+      "submissions": {
+        "C": {
+          "time": 9120,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 14940,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 5280,
+          "tries": 4,
+          "first": false
+        },
+        "J": {
+          "time": 4560,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1800,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "HCMUS-TrinityForce",
+      "university": "University of Science, VNU-HCM",
+      "submissions": {
+        "C": {
+          "time": 12360,
+          "tries": 4,
+          "first": false
+        },
+        "E": {
+          "time": 16320,
+          "tries": 5,
+          "first": false
+        },
+        "H": {
+          "time": 5760,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 3960,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1260,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "ack",
+      "university": "Hanoi University of Science and Technology",
+      "submissions": {
+        "C": {
+          "time": 12900,
+          "tries": 3,
+          "first": false
+        },
+        "E": {
+          "time": 9180,
+          "tries": 3,
+          "first": false
+        },
+        "F": {
+          "time": 16980,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 3540,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 3180,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "MWM",
+      "university": "Soongsil University",
+      "submissions": {
+        "C": {
+          "time": 10560,
+          "tries": 2,
+          "first": false
+        },
+        "F": {
+          "time": 17940,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 7680,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 4860,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 6300,
+          "tries": 6,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "oil.push_back()",
+      "university": "National Tsing Hua University",
+      "submissions": {
+        "B": {
+          "time": 15300,
+          "tries": 1,
+          "first": false
+        },
+        "C": {
+          "time": 7500,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 12240,
+          "tries": 4,
+          "first": false
+        },
+        "J": {
+          "time": 7980,
+          "tries": 3,
+          "first": false
+        },
+        "K": {
+          "time": 10020,
+          "tries": 5,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "GMAC",
+      "university": "Universitas Gadjah Mada",
+      "submissions": {
+        "C": {
+          "time": 8280,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 6600,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 4080,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1620,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "BlueCapeFlyingCat",
+      "university": "National Tsing Hua University",
+      "submissions": {
+        "C": {
+          "time": 10320,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 7680,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 4680,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 1860,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "HCMUT FieryFirefly",
+      "university": "Ho Chi Minh City University of Technology",
+      "submissions": {
+        "C": {
+          "time": 10080,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 3900,
+          "tries": 3,
+          "first": false
+        },
+        "J": {
+          "time": 6240,
+          "tries": 2,
+          "first": false
+        },
+        "K": {
+          "time": 1320,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "FPTU New Era",
+      "university": "FPT University",
+      "submissions": {
+        "E": {
+          "time": 16260,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 5040,
+          "tries": 1,
+          "first": false
+        },
+        "J": {
+          "time": 3120,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2160,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Akai_Koibito",
+      "university": "Hokkaido University",
+      "submissions": {
+        "C": {
+          "time": 11220,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 5760,
+          "tries": 3,
+          "first": false
+        },
+        "J": {
+          "time": 8640,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2100,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Last Dance",
+      "university": "HCMC University of Technology and Engineering",
+      "submissions": {
+        "E": {
+          "time": 10380,
+          "tries": 3,
+          "first": false
+        },
+        "H": {
+          "time": 5880,
+          "tries": 4,
+          "first": false
+        },
+        "J": {
+          "time": 4320,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2700,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "UIT.DTD.DestroyTheDemon",
+      "university": "University of Information Technology - Vietnam National University HCM",
+      "submissions": {
+        "C": {
+          "time": 11220,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 9060,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 4980,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 3300,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Ciallo (∠・w )⌒☆",
+      "university": "Nanyang Technological University",
+      "submissions": {
+        "C": {
+          "time": 11100,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 8880,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 5280,
+          "tries": 2,
+          "first": false
+        },
+        "K": {
+          "time": 1260,
+          "tries": 3,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "HUST AVG",
+      "university": "Hanoi University of Science and Technology",
+      "submissions": {
+        "C": {
+          "time": 7380,
+          "tries": 1,
+          "first": false
+        },
+        "E": {
+          "time": 17340,
+          "tries": 5,
+          "first": false
+        },
+        "J": {
+          "time": 4080,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2400,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "university": "Hanoi University of Science and Technology",
+      "submissions": {
+        "C": {
+          "time": 12600,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 5580,
+          "tries": 4,
+          "first": false
+        },
+        "J": {
+          "time": 9060,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2280,
+          "tries": 3,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "aizu_3",
+      "university": "University of Aizu",
+      "submissions": {
+        "C": {
+          "time": 13440,
+          "tries": 2,
+          "first": false
+        },
+        "H": {
+          "time": 9180,
+          "tries": 5,
+          "first": false
+        },
+        "J": {
+          "time": 6960,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 3060,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "UIT.HKN.2mic1cup",
+      "university": "University of Information Technology - Vietnam National University HCM",
+      "submissions": {
+        "C": {
+          "time": 14040,
+          "tries": 3,
+          "first": false
+        },
+        "H": {
+          "time": 7980,
+          "tries": 4,
+          "first": false
+        },
+        "J": {
+          "time": 6780,
+          "tries": 2,
+          "first": false
+        },
+        "K": {
+          "time": 4320,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "r3eial",
+      "university": "BINUS University",
+      "submissions": {
+        "C": {
+          "time": 5820,
+          "tries": 1,
+          "first": false
+        },
+        "H": {
+          "time": 17220,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 6660,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 7380,
+          "tries": 4,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "WhereisSouth",
+      "university": "National Central University",
+      "submissions": {
+        "C": {
+          "time": 14940,
+          "tries": 4,
+          "first": false
+        },
+        "H": {
+          "time": 17760,
+          "tries": 13,
+          "first": false
+        },
+        "J": {
+          "time": 6240,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2700,
+          "tries": 3,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "HCMUT Himawari",
+      "university": "Ho Chi Minh City University of Technology",
+      "submissions": {
+        "H": {
+          "time": 6960,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 5940,
+          "tries": 3,
+          "first": false
+        },
+        "K": {
+          "time": 3840,
+          "tries": 2,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Jangan Lupa Beli Akun ML di @sultanmarketmlbb",
+      "university": "Universitas Indonesia",
+      "submissions": {
+        "C": {
+          "time": 13200,
+          "tries": 2,
+          "first": false
+        },
+        "J": {
+          "time": 14880,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 2040,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "NCKU_hamster",
+      "university": "National Cheng Kung University",
+      "submissions": {
+        "J": {
+          "time": 16080,
+          "tries": 1,
+          "first": false
+        },
+        "K": {
+          "time": 4020,
+          "tries": 1,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "Miracle Trio",
+      "university": "Xiamen University Malaysia",
+      "submissions": {}
+    }
+  ]
+}
