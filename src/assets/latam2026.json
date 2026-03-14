@@ -1,0 +1,1236 @@
+{
+  "name": "ICPC Latin America Championship 2026",
+  "duration": 18000,
+  "freeze": 14400,
+  "problems": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "teams": [
+    {
+      "name": "[UFMG] ooga booga",
+      "university": "UFMG",
+      "submissions": {
+        "A": {
+          "tries": 1,
+          "time": 4920,
+          "first": false
+        },
+        "B": {
+          "tries": 1,
+          "time": 2160,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 780,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 5760,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 8400,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 9000,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1320,
+          "first": false
+        },
+        "K": {
+          "tries": 2,
+          "time": 13620,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UP GDL] Testigos de Germ\u00e1n",
+      "university": "UP GDL",
+      "submissions": {
+        "A": {
+          "tries": 1,
+          "time": 7680,
+          "first": false
+        },
+        "B": {
+          "tries": 1,
+          "time": 2400,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 840,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 5940,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 9600,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 14520,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1200,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UNC] Helic\u00f3ptero",
+      "university": "UNC",
+      "submissions": {
+        "A": {
+          "tries": 2,
+          "time": 4500,
+          "first": false
+        },
+        "B": {
+          "tries": 2,
+          "time": 4560,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 840,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 6360,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 7140,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 16440,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1440,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UChile] sin globito no hay fiesta",
+      "university": "UChile",
+      "submissions": {
+        "A": {
+          "tries": 3,
+          "time": 10440,
+          "first": false
+        },
+        "B": {
+          "tries": 1,
+          "time": 3720,
+          "first": false
+        },
+        "E": {
+          "tries": 3,
+          "time": 900,
+          "first": false
+        },
+        "F": {
+          "tries": 4,
+          "time": 7260,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 17220,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 16140,
+          "first": false
+        },
+        "J": {
+          "tries": 3,
+          "time": 4440,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UnB] \u00c9 s\u00f3 fazer",
+      "university": "UnB",
+      "submissions": {
+        "A": {
+          "tries": 2,
+          "time": 10320,
+          "first": false
+        },
+        "B": {
+          "tries": 1,
+          "time": 2400,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 1080,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 4560,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 13800,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1440,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UnB] Los Tralalelitos dizem FLAMENGOOO",
+      "university": "UnB",
+      "submissions": {
+        "A": {
+          "tries": 3,
+          "time": 11880,
+          "first": false
+        },
+        "B": {
+          "tries": 1,
+          "time": 2580,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 600,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 5040,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 13080,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1080,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UFCG] 8e6d0497880e3db3b3b093f517c13f9f",
+      "university": "UFCG",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 1320,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 960,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 7200,
+          "first": false
+        },
+        "G": {
+          "tries": 2,
+          "time": 10380,
+          "first": false
+        },
+        "I": {
+          "tries": 4,
+          "time": 16860,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1560,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UBA] Los Catastr\u00f3ficos",
+      "university": "UBA",
+      "submissions": {
+        "A": {
+          "tries": 2,
+          "time": 13860,
+          "first": false
+        },
+        "B": {
+          "tries": 1,
+          "time": 5460,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 840,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 12120,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 9240,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 2520,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UNI FIIS] SaleEnOdeUno",
+      "university": "UNI FIIS",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 6180,
+          "first": false
+        },
+        "E": {
+          "tries": 2,
+          "time": 2160,
+          "first": false
+        },
+        "F": {
+          "tries": 3,
+          "time": 9360,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 12300,
+          "first": false
+        },
+        "I": {
+          "tries": 2,
+          "time": 16200,
+          "first": false
+        },
+        "J": {
+          "tries": 2,
+          "time": 2340,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UNR] Red-Black Tree",
+      "university": "UNR",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 8100,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 960,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 9300,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 12960,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1740,
+          "first": false
+        },
+        "L": {
+          "tries": 5,
+          "time": 17940,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UNICAMP] Naim continua dentro de n\u00f3s",
+      "university": "UNICAMP",
+      "submissions": {
+        "B": {
+          "tries": 2,
+          "time": 3900,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 1080,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 9600,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 17160,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 900,
+          "first": false
+        },
+        "L": {
+          "tries": 7,
+          "time": 15240,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[EAFIT] Que bendici\u00f3n",
+      "university": "EAFIT",
+      "submissions": {
+        "A": {
+          "tries": 3,
+          "time": 14820,
+          "first": false
+        },
+        "B": {
+          "tries": 1,
+          "time": 5760,
+          "first": false
+        },
+        "E": {
+          "tries": 2,
+          "time": 2280,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 9660,
+          "first": false
+        },
+        "G": {
+          "tries": 2,
+          "time": 17940,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1260,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UP Bonaterra] Igloo Zone",
+      "university": "UP Bonaterra",
+      "submissions": {
+        "B": {
+          "tries": 3,
+          "time": 11520,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 960,
+          "first": false
+        },
+        "F": {
+          "tries": 5,
+          "time": 17700,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 9660,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 12240,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 660,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UDESC] \u00e9 sempre o XOR",
+      "university": "UDESC",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 2100,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 960,
+          "first": false
+        },
+        "F": {
+          "tries": 4,
+          "time": 10020,
+          "first": false
+        },
+        "G": {
+          "tries": 2,
+          "time": 5280,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 660,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UBA] Corman",
+      "university": "UBA",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 2880,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 900,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 7860,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1380,
+          "first": false
+        },
+        "K": {
+          "tries": 2,
+          "time": 10380,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UNLP] NaN (Need a Name)",
+      "university": "UNLP",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 4380,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 1800,
+          "first": false
+        },
+        "F": {
+          "tries": 3,
+          "time": 4200,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 600,
+          "first": false
+        },
+        "K": {
+          "tries": 1,
+          "time": 14700,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[ESCOM IPN] hmmmmmmmmm?",
+      "university": "ESCOM IPN",
+      "submissions": {
+        "A": {
+          "tries": 2,
+          "time": 12240,
+          "first": false
+        },
+        "B": {
+          "tries": 1,
+          "time": 3600,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 1140,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 6060,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1500,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UNR] para la pda elegimos wf",
+      "university": "UNR",
+      "submissions": {
+        "A": {
+          "tries": 1,
+          "time": 13800,
+          "first": false
+        },
+        "B": {
+          "tries": 1,
+          "time": 4800,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 1440,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 5340,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1140,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UFPE] las4s e pelados",
+      "university": "UFPE",
+      "submissions": {
+        "A": {
+          "tries": 1,
+          "time": 13980,
+          "first": false
+        },
+        "B": {
+          "tries": 1,
+          "time": 3720,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 360,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 8280,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1380,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UFRJ]\n Meu nome \u00e9 shadow. Sou aquele que deixou todo o seu passado para tr\u00e1s. \nN\u00e3o fa\u00e7o esse contest por ningu\u00e9m, n\u00e3o estou preso a nada",
+      "university": "UFRJ",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 4620,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 960,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 6780,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 15720,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 2220,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[PUC-RJ] Esse ai resolve com ccw",
+      "university": "PUC-RJ",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 3600,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 1740,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 7020,
+          "first": false
+        },
+        "G": {
+          "tries": 1,
+          "time": 17220,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 2160,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UTN FRSF] Champ\u00e1n en lata",
+      "university": "UTN FRSF",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 4320,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 1320,
+          "first": false
+        },
+        "F": {
+          "tries": 5,
+          "time": 8940,
+          "first": false
+        },
+        "I": {
+          "tries": 1,
+          "time": 15060,
+          "first": false
+        },
+        "J": {
+          "tries": 2,
+          "time": 2640,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UNAL Medellin] UNTreeCiclo",
+      "university": "UNAL Medellin",
+      "submissions": {
+        "B": {
+          "tries": 2,
+          "time": 3720,
+          "first": false
+        },
+        "E": {
+          "tries": 2,
+          "time": 2520,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 6420,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1620,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UMSS] Wasos del valle",
+      "university": "UMSS",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 4140,
+          "first": false
+        },
+        "E": {
+          "tries": 2,
+          "time": 4260,
+          "first": false
+        },
+        "F": {
+          "tries": 1,
+          "time": 7080,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 600,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[USP Ribeir\u00e3o Preto] apes together strong",
+      "university": "USP Ribeir\u00e3o Preto",
+      "submissions": {
+        "B": {
+          "tries": 2,
+          "time": 3300,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 840,
+          "first": false
+        },
+        "F": {
+          "tries": 4,
+          "time": 7080,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1440,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UH] UH Pop",
+      "university": "UH",
+      "submissions": {
+        "B": {
+          "tries": 2,
+          "time": 7920,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 840,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 5340,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1320,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UdG CUCEI] Find(Nim Mo);",
+      "university": "UdG CUCEI",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 4680,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 2400,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 9120,
+          "first": false
+        },
+        "J": {
+          "tries": 2,
+          "time": 3360,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[PUC] MEMoir del pudu",
+      "university": "PUC",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 4320,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 960,
+          "first": false
+        },
+        "F": {
+          "tries": 5,
+          "time": 11280,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1320,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UTFSM] La CASneta",
+      "university": "UTFSM",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 5640,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 1380,
+          "first": false
+        },
+        "F": {
+          "tries": 3,
+          "time": 9300,
+          "first": false
+        },
+        "J": {
+          "tries": 2,
+          "time": 2820,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[USP] Here's my number: 998244353, so call me maybe",
+      "university": "USP",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 7320,
+          "first": false
+        },
+        "E": {
+          "tries": 3,
+          "time": 2760,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 10380,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 2100,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[ORT] ORT 1 Dividimos y no Conquistamos",
+      "university": "ORT",
+      "submissions": {
+        "B": {
+          "tries": 2,
+          "time": 4560,
+          "first": false
+        },
+        "E": {
+          "tries": 3,
+          "time": 2040,
+          "first": false
+        },
+        "F": {
+          "tries": 3,
+          "time": 11280,
+          "first": false
+        },
+        "J": {
+          "tries": 2,
+          "time": 2400,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[FI-UNAM] :)",
+      "university": "FI-UNAM",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 5820,
+          "first": false
+        },
+        "E": {
+          "tries": 1,
+          "time": 1500,
+          "first": false
+        },
+        "F": {
+          "tries": 4,
+          "time": 15720,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1560,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UnB] grafo de botas",
+      "university": "UnB",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 4440,
+          "first": false
+        },
+        "E": {
+          "tries": 3,
+          "time": 3000,
+          "first": false
+        },
+        "F": {
+          "tries": 7,
+          "time": 16140,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 1560,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[ITESM Monterrey] Sindicato de Taxistas Calakmul (PD 500 usd y agregamos tu nombre)",
+      "university": "ITESM Monterrey",
+      "submissions": {
+        "B": {
+          "tries": 3,
+          "time": 7920,
+          "first": false
+        },
+        "E": {
+          "tries": 3,
+          "time": 1860,
+          "first": false
+        },
+        "F": {
+          "tries": 4,
+          "time": 15000,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 2100,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[ITCR-Alajuela] No name yet",
+      "university": "ITCR-Alajuela",
+      "submissions": {
+        "B": {
+          "tries": 5,
+          "time": 5880,
+          "first": false
+        },
+        "E": {
+          "tries": 3,
+          "time": 1800,
+          "first": false
+        },
+        "F": {
+          "tries": 2,
+          "time": 16980,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 2340,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UTFSM] LA SECTA",
+      "university": "UTFSM",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 7380,
+          "first": false
+        },
+        "E": {
+          "tries": 3,
+          "time": 3000,
+          "first": false
+        },
+        "F": {
+          "tries": 4,
+          "time": 17520,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 3960,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[PUCMM-CSD] PULSE DEMON",
+      "university": "PUCMM-CSD",
+      "submissions": {
+        "B": {
+          "tries": 3,
+          "time": 6720,
+          "first": false
+        },
+        "E": {
+          "tries": 2,
+          "time": 1740,
+          "first": false
+        },
+        "F": {
+          "tries": 7,
+          "time": 15480,
+          "first": false
+        },
+        "J": {
+          "tries": 2,
+          "time": 3000,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[ESEN] Synnapsis",
+      "university": "ESEN",
+      "submissions": {
+        "B": {
+          "tries": 3,
+          "time": 12780,
+          "first": false
+        },
+        "E": {
+          "tries": 4,
+          "time": 4020,
+          "first": false
+        },
+        "J": {
+          "tries": 5,
+          "time": 7560,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[URL] BananaScript",
+      "university": "URL",
+      "submissions": {
+        "E": {
+          "tries": 3,
+          "time": 7980,
+          "first": false
+        },
+        "J": {
+          "tries": 1,
+          "time": 3960,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UPR-A] WolfByte",
+      "university": "UPR-A",
+      "submissions": {
+        "B": {
+          "tries": 1,
+          "time": 12780,
+          "first": false
+        }
+      }
+    },
+    {
+      "name": "[UWI-FIC] FrostByte",
+      "university": "UWI-FIC",
+      "submissions": {}
+    }
+  ]
+}
